@@ -1,0 +1,44 @@
+pair_id,baseline,candidate,category,baseline_rarity,candidate_rarity,status
+P003,Force of Nature (Core Hidden),Cosmic Phenomenon (Great Dark Beyond),cross-card-same-patch,EPIC,EPIC,Unresolved acquisition status
+P006,Lightning Bloom (Scholomance Academy),Innervate (Basic),cross-card-cross-patch,COMMON,FREE,Candidate has no ordinary crafting route
+P008,Wild Growth (Core Hidden),Invigorate (Wonders),cross-card-same-patch,COMMON,RARE,Unresolved acquisition status
+P010,Landscaping (The Boomsday Project),Plot of Sin (Core Hidden),cross-card-same-patch,COMMON,RARE,Unresolved acquisition status
+P014,Reforestation (Into the Emerald Dream),Raven Idol (Core),cross-card-same-patch,EPIC,COMMON,Candidate has no ordinary crafting route
+P022,Seabreeze Chalice (Perils in Paradise),Arcane Missiles (Basic),cross-card-cross-patch,COMMON,FREE,Candidate has no ordinary crafting route
+P023,Seabreeze Chalice (Perils in Paradise),Arcane Missiles (Legacy),cross-card-cross-patch,COMMON,FREE,Candidate has no ordinary crafting route
+P031,Chillwind Yeti (Core Hidden),Activated Golem (Escape from Violet Hold),cross-card-same-patch,COMMON,COMMON,Unresolved acquisition status
+P033,River Crocolisk (Core Hidden),Amalgam of the Deep (Voyage to the Sunken City),cross-card-same-patch,COMMON,EPIC,Unresolved acquisition status
+P040,Argent Squire (Core Hidden),Click-Clocker (Voyage to the Sunken City),cross-card-same-patch,COMMON,COMMON,Unresolved acquisition status
+P044,Black Market Auctioneer (Escape from Violet Hold),Gadgetzan Auctioneer (Core Hidden),cross-card-same-patch,EPIC,RARE,Unresolved acquisition status
+P053,Chillwind Yeti (Core Hidden),Circus Amalgam (Madness at the Darkmoon Faire),cross-card-same-patch,COMMON,COMMON,Unresolved acquisition status
+P054,Chillwind Yeti (Core Hidden),Illusory Greenwing (Into the Emerald Dream),cross-card-same-patch,COMMON,RARE,Unresolved acquisition status
+P055,Chillwind Yeti (Core Hidden),Ice Revenant (Fractured in Alterac Valley),cross-card-cross-patch,COMMON,COMMON,Unresolved acquisition status
+P056,Chillwind Yeti (Core Hidden),Gear Grubber (Fractured in Alterac Valley),cross-card-cross-patch,COMMON,RARE,Unresolved acquisition status
+P057,Chillwind Yeti (Core Hidden),Worgen Greaser (Mean Streets of Gadgetzan),cross-card-same-patch,COMMON,COMMON,Unresolved acquisition status
+P058,Chillwind Yeti (Core Hidden),Time-Lost Protodrake (Titans),cross-card-same-patch,COMMON,COMMON,Unresolved acquisition status
+P059,Chillwind Yeti (Core Hidden),Dispossessed Soul (Core Hidden),cross-card-same-patch,COMMON,RARE,Unresolved acquisition status
+P073,River Crocolisk (Core Hidden),Encumbered Pack Mule (United in Stormwind),cross-card-same-patch,COMMON,RARE,Unresolved acquisition status
+P074,Tunneling Geomancer (Event),Ethereal Oracle (Great Dark Beyond),cross-card-same-patch,EPIC,COMMON,Unresolved acquisition status
+P081,Fen Creeper (Classic),Rotten Applebaum (Core Hidden),cross-card-same-patch,COMMON,COMMON,Unresolved acquisition status
+P086,Frostwolf Grunt (Legacy),Priest of the Deceased (Core Hidden),cross-card-same-patch,FREE,COMMON,Unresolved acquisition status
+P093,River Crocolisk (Core Hidden),Golakka Crawler (Journey to Un'Goro),cross-card-same-patch,COMMON,RARE,Unresolved acquisition status
+P094,Spider Tank (Core Hidden),Gorillabot A-3 (Core),cross-card-same-patch,COMMON,COMMON,Candidate has no ordinary crafting route
+P099,Kobold Geomancer (Core Hidden),Rainbow Glowscale (Voyage to the Sunken City),cross-card-same-patch,COMMON,COMMON,Unresolved acquisition status
+P104,River Crocolisk (Core Hidden),Manafeeder Panthara (Scholomance Academy),cross-card-same-patch,COMMON,COMMON,Unresolved acquisition status
+P105,River Crocolisk (Core Hidden),Oasis Thrasher (Forged in the Barrens),cross-card-cross-patch,COMMON,COMMON,Unresolved acquisition status
+P106,River Crocolisk (Core Hidden),Party Animal (Festival of Legends),cross-card-cross-patch,COMMON,COMMON,Unresolved acquisition status
+P110,River Crocolisk (Core Hidden),Plated Beetle (Core),cross-card-same-patch,COMMON,COMMON,Candidate has no ordinary crafting route
+P112,Tunneling Geomancer (Event),Rainbow Glowscale (Voyage to the Sunken City),cross-card-same-patch,EPIC,COMMON,Unresolved acquisition status
+P113,Spellbreaker (Classic),Royal Librarian (Core),cross-card-same-patch,COMMON,COMMON,Candidate has no ordinary crafting route
+P120,War Golem (Legacy),Stormwind Champion (Core),cross-card-same-patch,FREE,COMMON,Candidate has no ordinary crafting route
+P122,Subdue (Saviours of Uldum),Dark Conviction (Core Hidden),cross-card-same-patch,COMMON,COMMON,Unresolved acquisition status
+P125,Teamwork (Cataclysm),Stand Against Darkness (Core Hidden),cross-card-same-patch,RARE,COMMON,Unresolved acquisition status
+P126,Acolyte of Agony (Core Hidden),Injured Attendant (Cataclysm),cross-card-same-patch,COMMON,RARE,Unresolved acquisition status
+P129,Nightshade Tea (Perils in Paradise),Holy Smite (Core),cross-card-cross-patch,RARE,COMMON,Candidate has no ordinary crafting route
+P131,Power Word: Tentacles (Whispers of the Old Gods),Power Infusion (Core Hidden),cross-card-same-patch,COMMON,COMMON,Unresolved acquisition status
+P133,Shadow Word: Pain (Core Hidden),Twilight Influence (Into the Emerald Dream),cross-card-same-patch,COMMON,RARE,Unresolved acquisition status
+P138,Altered Chord (Festival of Legends),Tidal Surge (Core Hidden),cross-card-cross-patch,RARE,COMMON,Unresolved acquisition status
+P140,Tidal Surge (Core Hidden),Dehydrate (Wild West),cross-card-cross-patch,COMMON,COMMON,Unresolved acquisition status
+P143,Malted Magma (Perils in Paradise),Maelstrom Portal (Core Hidden),cross-card-cross-patch,COMMON,RARE,Unresolved acquisition status
+P144,"""Health"" Drink (Perils in Paradise)",Drain Soul (Core),cross-card-same-patch,RARE,COMMON,Candidate has no ordinary crafting route
+P147,Call of the Void (Legacy),Demonic Studies (Core Hidden),cross-card-same-patch,COMMON,COMMON,Unresolved acquisition status

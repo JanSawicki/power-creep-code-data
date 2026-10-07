@@ -1,0 +1,98 @@
+{
+  "scope": "Targeted check against current checkout build 250339; not a complete historical validation or a replacement human judgement.",
+  "rows": [
+    {
+      "name": "Microbot",
+      "card_id": "BOT_312t",
+      "build": "250339",
+      "text": null,
+      "mana": "1",
+      "tribe": "17",
+      "script_data": {}
+    },
+    {
+      "name": "Lesser Jasper Spellstone",
+      "card_id": "CORE_LOOT_051",
+      "build": "250339",
+      "text": "Deal $2 damage to a minion. @<i>(Gain 3 Armor to upgrade.)</i>",
+      "mana": "1",
+      "tribe": null,
+      "script_data": {
+        "TAG_SCRIPT_DATA_NUM_2": "3"
+      }
+    },
+    {
+      "name": "Reforestation",
+      "card_id": "EDR_843",
+      "build": "250339",
+      "text": "[x]<b>Choose One -</b> Draw a\nspell; or Draw a minion.\n<i>(Hold this for @ |4(turn, turns)\nto do_both!)</i>",
+      "mana": "2",
+      "tribe": null,
+      "script_data": {
+        "TAG_SCRIPT_DATA_NUM_1": "3"
+      }
+    },
+    {
+      "name": "Reforestation",
+      "card_id": "EDR_843t1",
+      "build": "250339",
+      "text": "Draw a spell and a minion.",
+      "mana": "2",
+      "tribe": null,
+      "script_data": {}
+    },
+    {
+      "name": "Lesser Jasper Spellstone",
+      "card_id": "LOOT_051",
+      "build": "250339",
+      "text": "Deal $2 damage to a minion. @<i>(Gain 3 Armor to upgrade.)</i>",
+      "mana": "1",
+      "tribe": null,
+      "script_data": {
+        "TAG_SCRIPT_DATA_NUM_2": "3"
+      }
+    },
+    {
+      "name": "Lesser Ruby Spellstone",
+      "card_id": "LOOT_103",
+      "build": "250339",
+      "text": "Add 1 random Mage spell to your hand. @<i>(Play 2 Elementals to_upgrade.)</i>",
+      "mana": "2",
+      "tribe": null,
+      "script_data": {
+        "TAG_SCRIPT_DATA_NUM_2": "2"
+      }
+    },
+    {
+      "name": "Lesser Onyx Spellstone",
+      "card_id": "LOOT_503",
+      "build": "250339",
+      "text": "Destroy 1 random enemy minion.\n@<i>(Play 3 <b>Deathrattle</b> cards to upgrade.)</i>",
+      "mana": "5",
+      "tribe": null,
+      "script_data": {
+        "TAG_SCRIPT_DATA_NUM_2": "3"
+      }
+    },
+    {
+      "name": "Living Paradox",
+      "card_id": "TIME_059",
+      "build": "250339",
+      "text": "<b>Elusive</b>\n<b>Battlecry:</b> Summon two\n2/1 Living Paradoxes with <b>Elusive</b>.",
+      "mana": "3",
+      "tribe": null,
+      "script_data": {}
+    }
+  ],
+  "source_commit": "bc742d57e0b057326b8cbf74fdf5f995310720f3",
+  "source_xml_sha256": "b767ffdccfbb0392e37c799bfc84f7e21dd72acc3dd622e76a67969a456e3ca6",
+  "affected_accepted_pair_ids": [
+    "P004",
+    "P011",
+    "P027",
+    "P028",
+    "P029",
+    "P134",
+    "P135"
+  ]
+}

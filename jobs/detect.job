@@ -1,0 +1,35 @@
+#!/bin/bash
+#SBATCH --nodes 1
+#SBATCH --cpus-per-task 4
+#SBATCH --mem=16G
+#SBATCH --time 5-00:00:00
+#SBATCH --job-name detect-power-creep
+#SBATCH --output ./logs/detect.log
+
+CONFIG="${POWER_CREEP_CONFIG:-${XDG_CONFIG_HOME:-$HOME/.config}/power-creep/local.env}"
+if [[ -f "$CONFIG" ]]; then source "$CONFIG"; fi
+
+set -euo pipefail
+export PYTHONUNBUFFERED=1
+
+REPO="${SLURM_SUBMIT_DIR:-$(pwd)}"
+cd "$REPO"
+
+source "$REPO/vllm.endpoints"
+export DB_PATH="$REPO/data/powercreep.duckdb"
+
+PYTHON="${POWER_CREEP_PYTHON:-python3}"
+
+echo "=== Detection starting on $(hostname) at $(date) ==="
+echo "DB:  $DB_PATH"
+echo "LLM: $VLLM_LLM_URL"
+echo "================================================"
+
+# With no submitted arguments, this runs the full uncapped detection scan.
+# Pass --stop-at-cross-card-cross-patch COUNT only for an intentionally capped run.
+$PYTHON "$REPO/scripts/detect.py" \
+    --llm-url "$VLLM_LLM_URL" \
+    "$@"
+
+echo "================================================"
+echo "Done at $(date)"

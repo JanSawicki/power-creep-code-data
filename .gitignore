@@ -1,0 +1,22 @@
+/*
+!/scripts/
+!/tests/
+!/jobs/
+!/requirements.txt
+!/.gitignore
+!/README.md
+!/data/
+/scripts/*
+!/scripts/*.py
+!/scripts/*.sh
+/tests/*
+!/tests/*.py
+/jobs/*
+!/jobs/*.job
+__pycache__/
+*.py[cod]
+
+# Private local configuration must never be published.
+*.env
+vllm.endpoints
+author.json

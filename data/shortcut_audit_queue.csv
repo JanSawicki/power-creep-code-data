@@ -1,0 +1,200 @@
+stage,line,baseline,candidate,baseline_text,candidate_text,audit_status
+initial,155,Tyrantus,Tyrantus,Can't be targeted by spells or Hero Powers.,<b>Taunt</b> Can't be targeted by spells or Hero Powers.,NOT_HUMAN_VALIDATED
+initial,168,Wild Growth,Breath of Dreams,Gain an empty Mana Crystal.,"Draw a card. If you're holding a Dragon, gain an empty Mana Crystal.",NOT_HUMAN_VALIDATED
+initial,206,Soul of the Forest,Wildwood Circle,"Give your minions ""<b>Deathrattle:</b> Summon a 2/2 Treant.""","<b>Shatter</b>. Summon two 2/2 Treants. Give your minions ""<b>Deathrattle:</b> Summon a 2/2 Treant.""Summon two 2/2 Treants. Give your minions ""<b>Deathrattle:</b> Summon a 2/2 Treant.""",NOT_HUMAN_VALIDATED
+initial,221,"Halazzi, the Lynx","Halazzi, the Lynx",<b>Battlecry:</b> Fill your hand with 1/1 Lynxes that have <b>Rush</b>.,<b>Rush</b>. <b>Battlecry:</b> Fill your hand with 1/1 Lynxes that have <b>Rush</b>.,NOT_HUMAN_VALIDATED
+initial,258,Deadly Shot,Pressure Plate,Destroy a random enemy minion.,"<b>Secret:</b> After your opponent casts a spell, destroy a random enemy minion.",NOT_HUMAN_VALIDATED
+initial,324,Soot Spewer,Soot Spewer,<b>Spell Damage +1</b>,"<b>Spell Damage +1</b> <b>Battlecry:</b> If you control another Mech, get a random Fire spell.",NOT_HUMAN_VALIDATED
+initial,389,Sleepy Dragon,Amber Warden,<b>Taunt</b>,<b>Taunt</b> <b>Deathrattle:</b> Summon a random minion from the past.,NOT_HUMAN_VALIDATED
+initial,391,Silverback Patriarch,Ancient Stegodon,<b>Taunt</b>,"<b>Battlecry:</b> Choose to gain <b>Taunt</b>, <b>Poisonous</b>, or +1/+1.",NOT_HUMAN_VALIDATED
+initial,392,Ancient of Blossoms,Hecklebot,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Your opponent summons a minion from their deck.,NOT_HUMAN_VALIDATED
+initial,393,Ancient of Blossoms,Zul'Drak Ritualist,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Summon three random 1-Cost minions for your opponent.,NOT_HUMAN_VALIDATED
+initial,394,Ancient of Blossoms,Hungry Ettin,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Summon a random 2-Cost minion for your opponent.,NOT_HUMAN_VALIDATED
+initial,395,Ancient of Blossoms,Conjured Mirage,<b>Taunt</b>,"<b>Taunt</b> At the start of your turn, shuffle this minion into your deck.",NOT_HUMAN_VALIDATED
+initial,396,Ancient of Blossoms,Injured Marauder,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Deal 6 damage to this minion.,NOT_HUMAN_VALIDATED
+initial,397,Ancient of Blossoms,Damaged Stegotron,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Deal 6 damage to this minion.,NOT_HUMAN_VALIDATED
+initial,398,Ancient of Blossoms,Witchwood Grizzly,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Lose 1 Health for each card in your opponent's hand.,NOT_HUMAN_VALIDATED
+initial,404,Wolfrider,Arcane Golem,<b>Charge</b>,<b>Charge</b>. <b>Battlecry:</b> Give your opponent a Mana Crystal.,NOT_HUMAN_VALIDATED
+initial,410,Argent Squire,Guardian Augmerchant,<b>Divine Shield</b>,<b>Battlecry:</b> Deal 1 damage to a minion and give it <b>Divine Shield</b>.,NOT_HUMAN_VALIDATED
+initial,413,Reckless Rocketeer,Armored Warhorse,<b>Charge</b>,"<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, gain <b>Charge</b>.",NOT_HUMAN_VALIDATED
+initial,416,Fen Creeper,Azsharan Sentinel,<b>Taunt</b>,<b>Taunt</b>. <b>Deathrattle:</b> Put a 'Sunken Sentinel' on the bottom of your deck.,NOT_HUMAN_VALIDATED
+initial,417,Booty Bay Bodyguard,Azsharan Sentinel,<b>Taunt</b>,<b>Taunt</b>. <b>Deathrattle:</b> Put a 'Sunken Sentinel' on the bottom of your deck.,NOT_HUMAN_VALIDATED
+initial,422,Dalaran Mage,Battlefield Blaster,<b>Spell Damage +1</b>,<b>Battlecry:</b> Choose a spell in your hand to give <b>Spell Damage +1</b>.,NOT_HUMAN_VALIDATED
+initial,423,Windfury Harpy,Battleground Battlemaster,<b>Windfury</b>,Adjacent minions have <b>Windfury</b>.,NOT_HUMAN_VALIDATED
+initial,424,Grook Fu Master,Battleground Battlemaster,<b>Windfury</b>,Adjacent minions have <b>Windfury</b>.,NOT_HUMAN_VALIDATED
+initial,426,Windfury Harpy,Battleground Battlemaster,<b>Windfury</b>,Adjacent minions have <b>Windfury</b>.,NOT_HUMAN_VALIDATED
+initial,429,Big Game Hunter,Big Game Hunter,<b>Battlecry:</b> Destroy a minion with 7 or more Attack.,<b>Tradeable</b> <b>Battlecry:</b> Destroy a minion with 7 or more Attack.,NOT_HUMAN_VALIDATED
+initial,438,Silvermoon Guardian,Blood Knight,<b>Divine Shield</b>,<b>Battlecry:</b> All minions lose <b>Divine Shield</b>. Gain +3/+3 for each Shield lost.,NOT_HUMAN_VALIDATED
+initial,439,Scarlet Crusader,Blood Knight,<b>Divine Shield</b>,<b>Battlecry:</b> All minions lose <b>Divine Shield</b>. Gain +3/+3 for each Shield lost.,NOT_HUMAN_VALIDATED
+initial,442,Frostwolf Grunt,Bonechewer Brawler,<b>Taunt</b>,"<b>Taunt</b> Whenever this minion takes damage, gain +2 Attack.",NOT_HUMAN_VALIDATED
+initial,445,Booty Bay Bodyguard,Imposing Anubisath,<b>Taunt</b>,<b>Taunt</b> Can't attack.,NOT_HUMAN_VALIDATED
+initial,446,Booty Bay Bodyguard,Scaled Lancer,<b>Taunt</b>,All enemy minions have <b>Taunt</b>.,NOT_HUMAN_VALIDATED
+initial,447,Booty Bay Bodyguard,Spiked Hogrider,<b>Taunt</b>,"<b>Battlecry:</b> If an enemy minion has <b>Taunt</b>, gain <b>Charge</b>.",NOT_HUMAN_VALIDATED
+initial,448,Booty Bay Bodyguard,Injured Marauder,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Deal 6 damage to this minion.,NOT_HUMAN_VALIDATED
+initial,451,Gnomish Inventor,Bright-Eyed Scout,<b>Battlecry:</b> Draw a card.,<b>Battlecry:</b> Draw a card. Change its Cost to (5).,NOT_HUMAN_VALIDATED
+initial,452,Gnomish Inventor,Bright-Eyed Scout,<b>Battlecry:</b> Draw a card.,<b>Battlecry:</b> Draw a card. Change its Cost to (5).,NOT_HUMAN_VALIDATED
+initial,456,Squirming Tentacle,Bronze Gatekeeper,<b>Taunt</b>,<b>Magnetic</b> <b>Taunt</b>,NOT_HUMAN_VALIDATED
+initial,458,Stormpike Commando,Burrowing Scorpid,<b>Battlecry:</b> Deal 2 damage.,"<b>Battlecry:</b> Deal 2 damage. If that kills the target, gain <b>Stealth</b>.",NOT_HUMAN_VALIDATED
+initial,465,Candletaker,Darkfallen Shadow,<b>Reborn</b>,<b>Rush</b> <b>Manathirst:</b> Gain <b>Reborn</b>.,NOT_HUMAN_VALIDATED
+initial,466,Candletaker,Drakkari Embalmer,<b>Reborn</b>,<b>Battlecry:</b> Give a friendly Undead <b>Reborn</b>.,NOT_HUMAN_VALIDATED
+initial,467,Candletaker,Generous Mummy,<b>Reborn</b>,<b>Reborn</b> Your opponent's cards cost (1) less.,NOT_HUMAN_VALIDATED
+initial,468,Candletaker,Scourge Rager,<b>Reborn</b>,<b>Reborn</b> <b>Battlecry:</b> Die.,NOT_HUMAN_VALIDATED
+initial,480,Fen Creeper,Chronicle Keeper,<b>Taunt</b>,"<b>Battlecry:</b> If you're holding a Dragon, gain <b>Taunt</b> and <b>Divine Shield</b>.",NOT_HUMAN_VALIDATED
+initial,481,Sen'jin Shieldmasta,Chronicle Keeper,<b>Taunt</b>,"<b>Battlecry:</b> If you're holding a Dragon, gain <b>Taunt</b> and <b>Divine Shield</b>.",NOT_HUMAN_VALIDATED
+initial,482,Silvermoon Guardian,Chronicle Keeper,<b>Divine Shield</b>,"<b>Battlecry:</b> If you're holding a Dragon, gain <b>Taunt</b> and <b>Divine Shield</b>.",NOT_HUMAN_VALIDATED
+initial,483,Sen'jin Shieldmasta,Circus Amalgam,<b>Taunt</b>,<b>Taunt</b> <i>This has all minion types.</i>,NOT_HUMAN_VALIDATED
+initial,488,Fen Creeper,Conjured Mirage,<b>Taunt</b>,"<b>Taunt</b> At the start of your turn, shuffle this minion into your deck.",NOT_HUMAN_VALIDATED
+initial,489,Sen'jin Shieldmasta,Conjured Mirage,<b>Taunt</b>,"<b>Taunt</b> At the start of your turn, shuffle this minion into your deck.",NOT_HUMAN_VALIDATED
+initial,490,Mogu'shan Warden,Conjured Mirage,<b>Taunt</b>,"<b>Taunt</b> At the start of your turn, shuffle this minion into your deck.",NOT_HUMAN_VALIDATED
+initial,493,Fen Creeper,Crazed Worshipper,<b>Taunt</b>,"<b>Taunt</b> Whenever this minion takes damage, give your C'Thun +1/+1 <i>(wherever it is).</i>",NOT_HUMAN_VALIDATED
+initial,494,Sen'jin Shieldmasta,Crazed Worshipper,<b>Taunt</b>,"<b>Taunt</b> Whenever this minion takes damage, give your C'Thun +1/+1 <i>(wherever it is).</i>",NOT_HUMAN_VALIDATED
+initial,499,Fen Creeper,Crimson Hothead,<b>Taunt</b>,<b>Spellburst:</b> Gain +1 Attack and <b>Taunt</b>.,NOT_HUMAN_VALIDATED
+initial,500,Sen'jin Shieldmasta,Crimson Hothead,<b>Taunt</b>,<b>Spellburst:</b> Gain +1 Attack and <b>Taunt</b>.,NOT_HUMAN_VALIDATED
+initial,501,Frostwolf Grunt,Crystal Welder,<b>Taunt</b>,"<b>Taunt</b> <b>Battlecry:</b> If you're building a <b>Starship</b>, gain +2/+2.",NOT_HUMAN_VALIDATED
+initial,503,Silvermoon Guardian,Curious Cumulus,<b>Divine Shield</b>,"At the end of your turn, give your hero <b>Divine Shield</b>.",NOT_HUMAN_VALIDATED
+initial,504,Ironfur Grizzly,Cyborg Patriarch,<b>Taunt</b>,<b>Dormant</b> for 3 turns. <b>Taunt</b>,NOT_HUMAN_VALIDATED
+initial,505,Squirming Tentacle,Cyborg Patriarch,<b>Taunt</b>,<b>Dormant</b> for 3 turns. <b>Taunt</b>,NOT_HUMAN_VALIDATED
+initial,506,Fen Creeper,Cyborg Patriarch,<b>Taunt</b>,<b>Dormant</b> for 3 turns. <b>Taunt</b>,NOT_HUMAN_VALIDATED
+initial,507,Sen'jin Shieldmasta,Cyborg Patriarch,<b>Taunt</b>,<b>Dormant</b> for 3 turns. <b>Taunt</b>,NOT_HUMAN_VALIDATED
+initial,509,Silverback Patriarch,Cyborg Patriarch,<b>Taunt</b>,<b>Dormant</b> for 3 turns. <b>Taunt</b>,NOT_HUMAN_VALIDATED
+initial,510,Stegodon,Cyborg Patriarch,<b>Taunt</b>,<b>Dormant</b> for 3 turns. <b>Taunt</b>,NOT_HUMAN_VALIDATED
+initial,511,Mogu'shan Warden,Cyborg Patriarch,<b>Taunt</b>,<b>Dormant</b> for 3 turns. <b>Taunt</b>,NOT_HUMAN_VALIDATED
+initial,512,Dalaran Mage,Spellshifter,<b>Spell Damage +1</b>,"<b>Spell Damage +1</b> Each turn this is in your hand, swap its Attack and Health.",NOT_HUMAN_VALIDATED
+initial,513,Furious Ettin,Damaged Stegotron,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Deal 6 damage to this minion.,NOT_HUMAN_VALIDATED
+initial,516,Scarlet Crusader,Darkmoon Dirigible,<b>Divine Shield</b>,<b>Divine Shield</b> <b>Corrupt:</b> Gain <b>Rush</b>.,NOT_HUMAN_VALIDATED
+initial,518,Squirming Tentacle,Deathlord,<b>Taunt</b>,<b>Taunt. Deathrattle:</b> Your opponent puts a minion from their deck into the battlefield.,NOT_HUMAN_VALIDATED
+initial,519,Mogu'shan Warden,Deathlord,<b>Taunt</b>,<b>Taunt. Deathrattle:</b> Your opponent puts a minion from their deck into the battlefield.,NOT_HUMAN_VALIDATED
+initial,526,Scarlet Crusader,Dimensional Core,<b>Divine Shield</b>,<b>Divine Shield</b> <b>Starship Piece</b>,NOT_HUMAN_VALIDATED
+initial,527,Squirming Tentacle,Dirty Rat,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Your opponent summons a random minion from their hand.,NOT_HUMAN_VALIDATED
+initial,528,Frostwolf Grunt,Dirty Rat,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Your opponent summons a random minion from their hand.,NOT_HUMAN_VALIDATED
+initial,533,Thrallmar Farseer,Dragonhawk Rider,<b>Windfury</b>,<b>Inspire:</b> Gain <b>Windfury</b> this turn.,NOT_HUMAN_VALIDATED
+initial,536,Reckless Rocketeer,Dread Deserter,<b>Charge</b>,Has <b>Charge</b> if this didn't start in your deck.,NOT_HUMAN_VALIDATED
+initial,545,Emerald Skytalon,Pelican Diver,<b>Rush</b>,<b>Dormant</b> for 1 turn. <b>Rush</b>,NOT_HUMAN_VALIDATED
+initial,546,Frostwolf Grunt,Encumbered Pack Mule,<b>Taunt</b>,"<b>Taunt</b> When you draw this, add a copy of it to your hand.",NOT_HUMAN_VALIDATED
+initial,560,Evil Heckler,Imposing Anubisath,<b>Taunt</b>,<b>Taunt</b> Can't attack.,NOT_HUMAN_VALIDATED
+initial,561,Evil Heckler,Scaled Lancer,<b>Taunt</b>,All enemy minions have <b>Taunt</b>.,NOT_HUMAN_VALIDATED
+initial,562,Evil Heckler,Injured Marauder,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Deal 6 damage to this minion.,NOT_HUMAN_VALIDATED
+initial,563,Evolved Kobold,Imprisoned Phoenix,<b>Spell Damage +2</b>,<b>Dormant</b> for 2 turns. <b>Spell Damage +2</b>,NOT_HUMAN_VALIDATED
+initial,564,Evolved Kobold,Silvermoon Arcanist,<b>Spell Damage +2</b>,<b>Spell Damage +2</b> <b>Battlecry:</b> Your spells can’t target heroes this turn.,NOT_HUMAN_VALIDATED
+initial,565,Evolved Kobold,Spellzerker,<b>Spell Damage +2</b>,Has <b>Spell Damage +2</b> while damaged.,NOT_HUMAN_VALIDATED
+initial,566,Evolved Kobold,Guild Trader,<b>Spell Damage +2</b>,<b>Tradeable</b> <b>Spell Damage +2</b>,NOT_HUMAN_VALIDATED
+initial,573,Fen Creeper,Hecklebot,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Your opponent summons a minion from their deck.,NOT_HUMAN_VALIDATED
+initial,574,Fen Creeper,Rotten Applebaum,<b>Taunt</b>,<b>Taunt</b> <b>Deathrattle:</b> Restore 6 Health to your hero.,NOT_HUMAN_VALIDATED
+initial,575,Fen Creeper,Imposing Anubisath,<b>Taunt</b>,<b>Taunt</b> Can't attack.,NOT_HUMAN_VALIDATED
+initial,576,Fen Creeper,Zul'Drak Ritualist,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Summon three random 1-Cost minions for your opponent.,NOT_HUMAN_VALIDATED
+initial,577,Fen Creeper,Scaled Lancer,<b>Taunt</b>,All enemy minions have <b>Taunt</b>.,NOT_HUMAN_VALIDATED
+initial,578,Fen Creeper,Lion's Guard,<b>Taunt</b>,"<b>Battlecry:</b> If you have 15 or less Health, gain +2/+4 and <b>Taunt</b>.",NOT_HUMAN_VALIDATED
+initial,579,Fen Creeper,Willful Watcher,<b>Taunt</b>,<b>Taunt</b> <b>Deathrattle:</b> Destroy the top 3 cards of your deck.,NOT_HUMAN_VALIDATED
+initial,580,Fen Creeper,Tol'vir Stoneshaper,<b>Taunt</b>,"<b>Battlecry:</b> If you played an Elemental last turn, gain <b>Taunt</b> and <b>Divine Shield</b>.",NOT_HUMAN_VALIDATED
+initial,581,Fen Creeper,Gold Road Grunt,<b>Taunt</b>,<b>Taunt</b> <b>Frenzy:</b> Gain Armor equal to the damage taken.,NOT_HUMAN_VALIDATED
+initial,582,Fen Creeper,Injured Marauder,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Deal 6 damage to this minion.,NOT_HUMAN_VALIDATED
+initial,584,Fen Creeper,Witchwood Grizzly,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Lose 1 Health for each card in your opponent's hand.,NOT_HUMAN_VALIDATED
+initial,585,Fen Creeper,Nesting Roc,<b>Taunt</b>,"<b>Battlecry:</b> If you control at least 2 other minions, gain <b>Taunt</b>.",NOT_HUMAN_VALIDATED
+initial,586,Fen Creeper,Ogremancer,<b>Taunt</b>,"Whenever your opponent casts a spell, summon a 2/2 Skeleton with <b>Taunt</b>.",NOT_HUMAN_VALIDATED
+initial,587,Squirming Tentacle,Festival Security,<b>Taunt</b>,<b>Taunt</b> <b>Finale:</b> Force all enemy minions to attack this.,NOT_HUMAN_VALIDATED
+initial,593,Silvermoon Guardian,Flutterwing Guardian,<b>Divine Shield</b>,"<b><b>Taunt</b>, Divine Shield</b> <b>Battlecry:</b> <b>Imbue</b> your Hero Power.",NOT_HUMAN_VALIDATED
+initial,595,Grook Fu Master,Frantic Hippogryph,<b>Windfury</b>,<b>Rush</b>. <b>Honorable Kill</b>: Gain <b>Windfury</b>.,NOT_HUMAN_VALIDATED
+initial,597,Frostwolf Grunt,Injured Tol'vir,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Deal 3 damage to this minion.,NOT_HUMAN_VALIDATED
+initial,598,Frostwolf Grunt,Saronite Taskmaster,<b>Taunt</b>,<b>Deathrattle:</b> Summon a 0/3 Free Agent with <b>Taunt</b> for your opponent.,NOT_HUMAN_VALIDATED
+initial,599,Frostwolf Grunt,Whelp Wrangler,<b>Taunt</b>,"At the end of your turn, get a 1/2 Whelp with <b>Taunt</b>.",NOT_HUMAN_VALIDATED
+initial,600,Frostwolf Grunt,Selfless Protector,<b>Taunt</b>,<b>Taunt</b> Takes one extra damage from all sources.,NOT_HUMAN_VALIDATED
+initial,601,Frostwolf Grunt,Sunfury Protector,<b>Taunt</b>,<b>Battlecry:</b> Give adjacent minions <b>Taunt</b>.,NOT_HUMAN_VALIDATED
+initial,602,Frostwolf Grunt,Priest of the Deceased,<b>Taunt</b>,<b>Taunt</b> <b>Infuse:</b> Gain +2/+2.,NOT_HUMAN_VALIDATED
+initial,609,Twisted Worgen,Gankster,<b>Stealth</b>,"<b>Stealth</b> After your opponent plays a minion, attack it.",NOT_HUMAN_VALIDATED
+initial,611,Sen'jin Shieldmasta,Gear Grubber,<b>Taunt</b>,"<b>Taunt</b>. If you end your turn with any unspent Mana, reduce this card's Cost by (1).",NOT_HUMAN_VALIDATED
+initial,612,Sen'jin Shieldmasta,Gear Grubber,<b>Taunt</b>,"<b>Taunt</b>. If you end your turn with any unspent mana, reduce this card's Cost by (1).",NOT_HUMAN_VALIDATED
+initial,615,Reckless Rocketeer,Getaway Hogdriver,<b>Charge</b>,"<b>Battlecry:</b> Draw 2 cards. If they're both minions, gain <b>Charge</b>.",NOT_HUMAN_VALIDATED
+initial,616,Giant Mastodon,Meadowstrider,<b>Taunt</b>,<b>Taunt</b>. <b>Deathrattle:</b> Put a Meadowstrider on the bottom of your deck. It costs (1).,NOT_HUMAN_VALIDATED
+initial,625,Goldshire Footman,Stockades Guard,<b>Taunt</b>,<b>Battlecry:</b> Give a friendly minion <b>Taunt</b>.,NOT_HUMAN_VALIDATED
+initial,626,Goldshire Footman,Saronite Taskmaster,<b>Taunt</b>,<b>Deathrattle:</b> Summon a 0/3 Free Agent with <b>Taunt</b> for your opponent.,NOT_HUMAN_VALIDATED
+initial,636,Sen'jin Shieldmasta,Hecklebot,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Your opponent summons a minion from their deck.,NOT_HUMAN_VALIDATED
+initial,637,Mogu'shan Warden,Hecklebot,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Your opponent summons a minion from their deck.,NOT_HUMAN_VALIDATED
+initial,640,Hired Gun,K'thir Ritualist,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Add a random 4-Cost minion to your opponent's hand.,NOT_HUMAN_VALIDATED
+initial,646,Sen'jin Shieldmasta,Illusory Greenwing,<b>Taunt</b>,<b>Taunt</b>. <b>Deathrattle:</b> Shuffle two 4/5 Dragons with <b>Taunt</b> into your deck. They're <b>Summoned When Drawn</b>.,NOT_HUMAN_VALIDATED
+initial,648,Sen'jin Shieldmasta,Imposing Anubisath,<b>Taunt</b>,<b>Taunt</b> Can't attack.,NOT_HUMAN_VALIDATED
+initial,649,Lord of the Arena,Imposing Anubisath,<b>Taunt</b>,<b>Taunt</b> Can't attack.,NOT_HUMAN_VALIDATED
+initial,650,Mogu'shan Warden,Imposing Anubisath,<b>Taunt</b>,<b>Taunt</b> Can't attack.,NOT_HUMAN_VALIDATED
+initial,652,Sen'jin Shieldmasta,Injured Marauder,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Deal 6 damage to this minion.,NOT_HUMAN_VALIDATED
+initial,653,Mogu'shan Warden,Injured Marauder,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Deal 6 damage to this minion.,NOT_HUMAN_VALIDATED
+initial,654,Squirming Tentacle,Injured Tol'vir,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Deal 3 damage to this minion.,NOT_HUMAN_VALIDATED
+initial,662,Squirming Tentacle,K'thir Ritualist,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Add a random 4-Cost minion to your opponent's hand.,NOT_HUMAN_VALIDATED
+initial,671,Kobold Geomancer,Tuskarr Fisherman,<b>Spell Damage +1</b>,<b>Battlecry:</b> Give a friendly minion <b>Spell Damage +1</b>.,NOT_HUMAN_VALIDATED
+initial,673,Reckless Rocketeer,Leatherclad Hogleader,<b>Charge</b>,"<b>Battlecry:</b> If your opponent has 6 or more cards in hand, gain <b>Charge</b>.",NOT_HUMAN_VALIDATED
+initial,678,Lord of the Arena,Scaled Lancer,<b>Taunt</b>,All enemy minions have <b>Taunt</b>.,NOT_HUMAN_VALIDATED
+initial,679,Lord of the Arena,Time Machine,<b>Taunt</b>,<b>Taunt</b> <b>Deathrattle:</b> Get a random <b>Rewind</b> card.,NOT_HUMAN_VALIDATED
+initial,684,Silvermoon Guardian,Marshland Thresher,<b>Divine Shield</b>,"After you cast a spell, gain <b>Divine Shield</b>.",NOT_HUMAN_VALIDATED
+initial,685,Scarlet Crusader,Marshland Thresher,<b>Divine Shield</b>,"After you cast a spell, gain <b>Divine Shield</b>.",NOT_HUMAN_VALIDATED
+initial,688,Mogu'shan Warden,Zul'Drak Ritualist,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Summon three random 1-Cost minions for your opponent.,NOT_HUMAN_VALIDATED
+initial,689,Mogu'shan Warden,Willful Watcher,<b>Taunt</b>,<b>Taunt</b> <b>Deathrattle:</b> Destroy the top 3 cards of your deck.,NOT_HUMAN_VALIDATED
+initial,703,Novice Engineer,Platysaur,<b>Battlecry:</b> Draw a card.,<b>Battlecry:</b> Draw a card. <b>Deathrattle:</b> Discard it.,NOT_HUMAN_VALIDATED
+initial,711,Squirming Tentacle,Perplexing Anomaly,<b>Taunt</b>,"<b>Rush</b>, <b>Taunt</b>, <b>...<b>Stealth</b>?</b>",NOT_HUMAN_VALIDATED
+initial,728,Thrallmar Farseer,Raging Worgen,<b>Windfury</b>,<b>Enrage:</b> <b>Windfury</b> and +1 Attack.,NOT_HUMAN_VALIDATED
+initial,729,Thrallmar Farseer,Raging Worgen,<b>Windfury</b>,Has +1 Attack and <b>Windfury</b> while damaged.,NOT_HUMAN_VALIDATED
+initial,730,Thrallmar Farseer,Raging Worgen,<b>Windfury</b>,<b>Enrage:</b> <b>Windfury</b> and +1 Attack,NOT_HUMAN_VALIDATED
+initial,735,Reckless Rocketeer,Spiked Hogrider,<b>Charge</b>,"<b>Battlecry:</b> If an enemy minion has <b>Taunt</b>, gain <b>Charge</b>.",NOT_HUMAN_VALIDATED
+initial,741,Spellbreaker,Royal Librarian,<b>Battlecry:</b> <b>Silence</b> a minion.,<b>Tradeable</b> <b>Battlecry:</b> <b>Silence</b> a minion.,NOT_HUMAN_VALIDATED
+initial,742,Thrallmar Farseer,Sailboat Captain,<b>Windfury</b>,<b>Battlecry:</b> Give a friendly Pirate <b>Windfury</b>.,NOT_HUMAN_VALIDATED
+initial,743,Tournament Attendee,Saronite Taskmaster,<b>Taunt</b>,<b>Deathrattle:</b> Summon a 0/3 Free Agent with <b>Taunt</b> for your opponent.,NOT_HUMAN_VALIDATED
+initial,745,Sated Threshadon,Sated Threshadon,<b>Deathrattle:</b> Summon three 1/1 Murlocs.,<b>Taunt</b> <b>Deathrattle:</b> Summon three 1/1 Murlocs.,NOT_HUMAN_VALIDATED
+initial,746,Sen'jin Shieldmasta,Scaled Lancer,<b>Taunt</b>,All enemy minions have <b>Taunt</b>.,NOT_HUMAN_VALIDATED
+initial,747,Scarlet Crusader,Sunwell Initiate,<b>Divine Shield</b>,<b>Frenzy:</b> Gain <b>Divine Shield</b>.,NOT_HUMAN_VALIDATED
+initial,748,Scarlet Crusader,Whelp of the Bronze,<b>Divine Shield</b>,<b>Lifesteal</b> <b>Divine Shield</b>,NOT_HUMAN_VALIDATED
+initial,750,Squirming Tentacle,Selfless Protector,<b>Taunt</b>,<b>Taunt</b> Takes one extra damage from all sources.,NOT_HUMAN_VALIDATED
+initial,751,Sen'jin Shieldmasta,Zul'Drak Ritualist,<b>Taunt</b>,<b>Taunt</b> <b>Battlecry:</b> Summon three random 1-Cost minions for your opponent.,NOT_HUMAN_VALIDATED
+initial,752,Sen'jin Shieldmasta,Willful Watcher,<b>Taunt</b>,<b>Taunt</b> <b>Deathrattle:</b> Destroy the top 3 cards of your deck.,NOT_HUMAN_VALIDATED
+initial,753,Sen'jin Shieldmasta,Tol'vir Stoneshaper,<b>Taunt</b>,"<b>Battlecry:</b> If you played an Elemental last turn, gain <b>Taunt</b> and <b>Divine Shield</b>.",NOT_HUMAN_VALIDATED
+initial,754,Sen'jin Shieldmasta,Time-Lost Protodrake,<b>Taunt</b>,"<b>Taunt</b> When you draw this, add a random Dragon to your hand.",NOT_HUMAN_VALIDATED
+initial,758,Silvermoon Guardian,Tol'vir Stoneshaper,<b>Divine Shield</b>,"<b>Battlecry:</b> If you played an Elemental last turn, gain <b>Taunt</b> and <b>Divine Shield</b>.",NOT_HUMAN_VALIDATED
+initial,759,Silvermoon Guardian,Sunwell Initiate,<b>Divine Shield</b>,<b>Frenzy:</b> Gain <b>Divine Shield</b>.,NOT_HUMAN_VALIDATED
+initial,760,Silvermoon Guardian,Tol'vir Stoneshaper,<b>Divine Shield</b>,"<b>Battlecry:</b> If you played an Elemental last turn, gain <b>Taunt</b> and <b>Divine Shield</b>.",NOT_HUMAN_VALIDATED
+initial,761,Squirming Tentacle,Silvermoon Sentinel,<b>Taunt</b>,<b>Taunt</b> <b>Manathirst:</b> Gain +2/+2 and <b>Divine Shield</b>.,NOT_HUMAN_VALIDATED
+initial,767,Twisted Worgen,Sneaky Scout,<b>Stealth</b>,<b>Stealth</b> <b>Honorable Kill:</b> Your next Hero Power costs (0).,NOT_HUMAN_VALIDATED
+initial,811,Guardian of Kings,Guardian of Kings,<b>Battlecry:</b> Restore 6 Health to your hero.,<b>Taunt</b> <b>Battlecry:</b> Restore 6 Health to your hero.,NOT_HUMAN_VALIDATED
+initial,895,Acolyte of Agony,Injured Attendant,<b>Lifesteal</b>,<b><b>Lifesteal</b> Battlecry:</b> Deal 4 damage to this minion.,NOT_HUMAN_VALIDATED
+initial,1229,Dark Peddler,Suspicious Peddler,<b>Battlecry: Discover</b> a 1-Cost card.,"<b>Battlecry:</b> <b>Discover</b> a 1-Cost card. If your opponent guesses your choice, they get a copy.",NOT_HUMAN_VALIDATED
+initial,1315,"Asvedon, the Grandshield","Asvedon, the Grandshield",<b>Battlecry:</b> Cast a copy of the last spell your opponent played.,<b>Taunt</b> <b>Battlecry:</b> Cast a copy of the last spell your opponent played.,NOT_HUMAN_VALIDATED
+initial,1340,Rabid Worgen,Playmaker,<b>Rush</b>,"After you play a <b>Rush</b> minion, summon a copy with 1 Health remaining.",NOT_HUMAN_VALIDATED
+initial,1354,Thori'belore,Thori'belore,<b>Rush</b>. <b>Deathrattle:</b> Go <b>Dormant</b>. Cast a Fire spell to revive Thori'belore!,<b>Rush</b>. <b>Deathrattle:</b> Go <b>Dormant</b>. Cast a Fire spell to revive Thori'belore! <i>(Revives 2 times.)</i>,NOT_HUMAN_VALIDATED
+initial,1399,Fen Creeper,Endtime Survivor,<b>Taunt</b>,"<b>Taunt</b>. <b>Battlecry:</b> If your hero took damage this turn, gain +3/+3.",NOT_HUMAN_VALIDATED
+retained,146,Tyrantus,Tyrantus,Can't be targeted by spells or Hero Powers.,<b>Taunt</b> Can't be targeted by spells or Hero Powers.,NOT_HUMAN_VALIDATED
+retained,197,"Halazzi, the Lynx","Halazzi, the Lynx",<b>Battlecry:</b> Fill your hand with 1/1 Lynxes that have <b>Rush</b>.,<b>Rush</b>. <b>Battlecry:</b> Fill your hand with 1/1 Lynxes that have <b>Rush</b>.,NOT_HUMAN_VALIDATED
+retained,282,Soot Spewer,Soot Spewer,<b>Spell Damage +1</b>,"<b>Spell Damage +1</b> <b>Battlecry:</b> If you control another Mech, get a random Fire spell.",NOT_HUMAN_VALIDATED
+retained,329,Sleepy Dragon,Amber Warden,<b>Taunt</b>,<b>Taunt</b> <b>Deathrattle:</b> Summon a random minion from the past.,NOT_HUMAN_VALIDATED
+retained,331,Silverback Patriarch,Ancient Stegodon,<b>Taunt</b>,"<b>Battlecry:</b> Choose to gain <b>Taunt</b>, <b>Poisonous</b>, or +1/+1.",NOT_HUMAN_VALIDATED
+retained,344,Fen Creeper,Azsharan Sentinel,<b>Taunt</b>,<b>Taunt</b>. <b>Deathrattle:</b> Put a 'Sunken Sentinel' on the bottom of your deck.,NOT_HUMAN_VALIDATED
+retained,345,Booty Bay Bodyguard,Azsharan Sentinel,<b>Taunt</b>,<b>Taunt</b>. <b>Deathrattle:</b> Put a 'Sunken Sentinel' on the bottom of your deck.,NOT_HUMAN_VALIDATED
+retained,353,Big Game Hunter,Big Game Hunter,<b>Battlecry:</b> Destroy a minion with 7 or more Attack.,<b>Tradeable</b> <b>Battlecry:</b> Destroy a minion with 7 or more Attack.,NOT_HUMAN_VALIDATED
+retained,361,Frostwolf Grunt,Bonechewer Brawler,<b>Taunt</b>,"<b>Taunt</b> Whenever this minion takes damage, gain +2 Attack.",NOT_HUMAN_VALIDATED
+retained,369,Squirming Tentacle,Bronze Gatekeeper,<b>Taunt</b>,<b>Magnetic</b> <b>Taunt</b>,NOT_HUMAN_VALIDATED
+retained,371,Stormpike Commando,Burrowing Scorpid,<b>Battlecry:</b> Deal 2 damage.,"<b>Battlecry:</b> Deal 2 damage. If that kills the target, gain <b>Stealth</b>.",NOT_HUMAN_VALIDATED
+retained,387,Sen'jin Shieldmasta,Circus Amalgam,<b>Taunt</b>,<b>Taunt</b> <i>This has all minion types.</i>,NOT_HUMAN_VALIDATED
+retained,394,Fen Creeper,Crazed Worshipper,<b>Taunt</b>,"<b>Taunt</b> Whenever this minion takes damage, give your C'Thun +1/+1 <i>(wherever it is).</i>",NOT_HUMAN_VALIDATED
+retained,395,Sen'jin Shieldmasta,Crazed Worshipper,<b>Taunt</b>,"<b>Taunt</b> Whenever this minion takes damage, give your C'Thun +1/+1 <i>(wherever it is).</i>",NOT_HUMAN_VALIDATED
+retained,400,Frostwolf Grunt,Crystal Welder,<b>Taunt</b>,"<b>Taunt</b> <b>Battlecry:</b> If you're building a <b>Starship</b>, gain +2/+2.",NOT_HUMAN_VALIDATED
+retained,402,Scarlet Crusader,Darkmoon Dirigible,<b>Divine Shield</b>,<b>Divine Shield</b> <b>Corrupt:</b> Gain <b>Rush</b>.,NOT_HUMAN_VALIDATED
+retained,406,Scarlet Crusader,Dimensional Core,<b>Divine Shield</b>,<b>Divine Shield</b> <b>Starship Piece</b>,NOT_HUMAN_VALIDATED
+retained,416,Frostwolf Grunt,Encumbered Pack Mule,<b>Taunt</b>,"<b>Taunt</b> When you draw this, add a copy of it to your hand.",NOT_HUMAN_VALIDATED
+retained,430,Evolved Kobold,Guild Trader,<b>Spell Damage +2</b>,<b>Tradeable</b> <b>Spell Damage +2</b>,NOT_HUMAN_VALIDATED
+retained,437,Fen Creeper,Rotten Applebaum,<b>Taunt</b>,<b>Taunt</b> <b>Deathrattle:</b> Restore 6 Health to your hero.,NOT_HUMAN_VALIDATED
+retained,438,Fen Creeper,Gold Road Grunt,<b>Taunt</b>,<b>Taunt</b> <b>Frenzy:</b> Gain Armor equal to the damage taken.,NOT_HUMAN_VALIDATED
+retained,440,Squirming Tentacle,Festival Security,<b>Taunt</b>,<b>Taunt</b> <b>Finale:</b> Force all enemy minions to attack this.,NOT_HUMAN_VALIDATED
+retained,446,Silvermoon Guardian,Flutterwing Guardian,<b>Divine Shield</b>,"<b><b>Taunt</b>, Divine Shield</b> <b>Battlecry:</b> <b>Imbue</b> your Hero Power.",NOT_HUMAN_VALIDATED
+retained,448,Frostwolf Grunt,Priest of the Deceased,<b>Taunt</b>,<b>Taunt</b> <b>Infuse:</b> Gain +2/+2.,NOT_HUMAN_VALIDATED
+retained,454,Twisted Worgen,Gankster,<b>Stealth</b>,"<b>Stealth</b> After your opponent plays a minion, attack it.",NOT_HUMAN_VALIDATED
+retained,456,Sen'jin Shieldmasta,Gear Grubber,<b>Taunt</b>,"<b>Taunt</b>. If you end your turn with any unspent Mana, reduce this card's Cost by (1).",NOT_HUMAN_VALIDATED
+retained,457,Sen'jin Shieldmasta,Gear Grubber,<b>Taunt</b>,"<b>Taunt</b>. If you end your turn with any unspent mana, reduce this card's Cost by (1).",NOT_HUMAN_VALIDATED
+retained,460,Giant Mastodon,Meadowstrider,<b>Taunt</b>,<b>Taunt</b>. <b>Deathrattle:</b> Put a Meadowstrider on the bottom of your deck. It costs (1).,NOT_HUMAN_VALIDATED
+retained,477,Sen'jin Shieldmasta,Illusory Greenwing,<b>Taunt</b>,<b>Taunt</b>. <b>Deathrattle:</b> Shuffle two 4/5 Dragons with <b>Taunt</b> into your deck. They're <b>Summoned When Drawn</b>.,NOT_HUMAN_VALIDATED
+retained,494,Lord of the Arena,Time Machine,<b>Taunt</b>,<b>Taunt</b> <b>Deathrattle:</b> Get a random <b>Rewind</b> card.,NOT_HUMAN_VALIDATED
+retained,517,Squirming Tentacle,Perplexing Anomaly,<b>Taunt</b>,"<b>Rush</b>, <b>Taunt</b>, <b>...<b>Stealth</b>?</b>",NOT_HUMAN_VALIDATED
+retained,539,Spellbreaker,Royal Librarian,<b>Battlecry:</b> <b>Silence</b> a minion.,<b>Tradeable</b> <b>Battlecry:</b> <b>Silence</b> a minion.,NOT_HUMAN_VALIDATED
+retained,541,Sated Threshadon,Sated Threshadon,<b>Deathrattle:</b> Summon three 1/1 Murlocs.,<b>Taunt</b> <b>Deathrattle:</b> Summon three 1/1 Murlocs.,NOT_HUMAN_VALIDATED
+retained,542,Scarlet Crusader,Whelp of the Bronze,<b>Divine Shield</b>,<b>Lifesteal</b> <b>Divine Shield</b>,NOT_HUMAN_VALIDATED
+retained,544,Sen'jin Shieldmasta,Time-Lost Protodrake,<b>Taunt</b>,"<b>Taunt</b> When you draw this, add a random Dragon to your hand.",NOT_HUMAN_VALIDATED
+retained,546,Squirming Tentacle,Silvermoon Sentinel,<b>Taunt</b>,<b>Taunt</b> <b>Manathirst:</b> Gain +2/+2 and <b>Divine Shield</b>.,NOT_HUMAN_VALIDATED
+retained,552,Twisted Worgen,Sneaky Scout,<b>Stealth</b>,<b>Stealth</b> <b>Honorable Kill:</b> Your next Hero Power costs (0).,NOT_HUMAN_VALIDATED
+retained,594,Guardian of Kings,Guardian of Kings,<b>Battlecry:</b> Restore 6 Health to your hero.,<b>Taunt</b> <b>Battlecry:</b> Restore 6 Health to your hero.,NOT_HUMAN_VALIDATED
+retained,662,Acolyte of Agony,Injured Attendant,<b>Lifesteal</b>,<b><b>Lifesteal</b> Battlecry:</b> Deal 4 damage to this minion.,NOT_HUMAN_VALIDATED
+retained,1001,"Asvedon, the Grandshield","Asvedon, the Grandshield",<b>Battlecry:</b> Cast a copy of the last spell your opponent played.,<b>Taunt</b> <b>Battlecry:</b> Cast a copy of the last spell your opponent played.,NOT_HUMAN_VALIDATED
+retained,1039,Thori'belore,Thori'belore,<b>Rush</b>. <b>Deathrattle:</b> Go <b>Dormant</b>. Cast a Fire spell to revive Thori'belore!,<b>Rush</b>. <b>Deathrattle:</b> Go <b>Dormant</b>. Cast a Fire spell to revive Thori'belore! <i>(Revives 2 times.)</i>,NOT_HUMAN_VALIDATED
+retained,1075,Fen Creeper,Endtime Survivor,<b>Taunt</b>,"<b>Taunt</b>. <b>Battlecry:</b> If your hero took damage this turn, gain +3/+3.",NOT_HUMAN_VALIDATED

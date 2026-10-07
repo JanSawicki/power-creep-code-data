@@ -1,0 +1,143 @@
+{
+  "scope": "Detector outputs after author-approved incomplete-effect exclusions; no independent human annotation obtained",
+  "corpus": {
+    "retained_rows": 7760,
+    "names": 6010,
+    "represented_patches": 168
+  },
+  "candidate_pairs_reconstructed_with_current_code": 368528,
+  "initial_records": 1405,
+  "retained_records": 1079,
+  "removed_records": 326,
+  "identity_pairs": 938,
+  "different_card_pairs": 145,
+  "initial_categories": {
+    "same-card-buff": 698,
+    "same-card-nerf": 259,
+    "cross-card-same-patch": 339,
+    "cross-card-cross-patch": 109
+  },
+  "retained_categories": {
+    "same-card-buff": 686,
+    "same-card-nerf": 240,
+    "cross-card-same-patch": 115,
+    "cross-card-cross-patch": 38
+  },
+  "identity_pair_categories": {
+    "same-card-buff": 595,
+    "same-card-nerf": 198,
+    "cross-card-same-patch": 110,
+    "cross-card-cross-patch": 35
+  },
+  "different_pair_categories": {
+    "cross-card-same-patch": 110,
+    "cross-card-cross-patch": 35
+  },
+  "rarity_transitions": {
+    "increased": 63,
+    "unchanged": 67,
+    "decreased": 15
+  },
+  "conversion_included": 102,
+  "cost_exclusions": {
+    "Unresolved acquisition status": 33,
+    "Candidate has no ordinary crafting route": 10
+  },
+  "matched_sample": {
+    "nominal_price_difference": {
+      "n": 102,
+      "mean": 54.31372549019608,
+      "median": 0.0,
+      "min": -300,
+      "max": 400,
+      "distribution": {
+        "-300": 1,
+        "-60": 3,
+        "0": 48,
+        "40": 16,
+        "60": 20,
+        "100": 3,
+        "300": 2,
+        "360": 8,
+        "400": 1
+      }
+    },
+    "candidate_craft": {
+      "n": 102,
+      "mean": 94.70588235294117,
+      "median": 40.0,
+      "min": 40,
+      "max": 400,
+      "distribution": {
+        "40": 64,
+        "100": 27,
+        "400": 11
+      }
+    },
+    "additional_dust": {
+      "n": 102,
+      "mean": 90.49019607843137,
+      "median": 40.0,
+      "min": 20,
+      "max": 400,
+      "distribution": {
+        "20": 3,
+        "35": 39,
+        "40": 22,
+        "80": 2,
+        "95": 15,
+        "100": 10,
+        "380": 2,
+        "395": 4,
+        "400": 5
+      }
+    },
+    "net_dust": {
+      "n": 102,
+      "mean": 90.49019607843137,
+      "median": 40.0,
+      "min": 20,
+      "max": 400,
+      "distribution": {
+        "20": 3,
+        "35": 39,
+        "40": 22,
+        "80": 2,
+        "95": 15,
+        "100": 10,
+        "380": 2,
+        "395": 4,
+        "400": 5
+      }
+    },
+    "surplus_dust": {
+      "n": 102,
+      "mean": 0,
+      "median": 0.0,
+      "min": 0,
+      "max": 0,
+      "distribution": {
+        "0": 102
+      }
+    }
+  },
+  "included_rarity_transitions": {
+    "increased": 50,
+    "unchanged": 48,
+    "decreased": 4
+  },
+  "baseline_treatments": {
+    "No disenchanting proceeds": 37,
+    "Ordinary disenchanting assumed": 65
+  },
+  "shortcut_records": {
+    "initial": 157,
+    "retained": 42
+  },
+  "retained_types": {
+    "LOCATION": 17,
+    "MINION": 662,
+    "SPELL": 398,
+    "WEAPON": 2
+  }
+}

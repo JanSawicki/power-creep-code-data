@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "retained_records": 1079,
+  "identity_pairs": 938,
+  "different_card_pairs": 145,
+  "included_conversion_pairs": 102,
+  "candidate_pairs": 368528,
+  "matched_distributions": "exactly reproduced"
+}

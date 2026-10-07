@@ -1,0 +1,39 @@
+#!/bin/bash
+#SBATCH --nodes 1
+
+CONFIG="${POWER_CREEP_CONFIG:-${XDG_CONFIG_HOME:-$HOME/.config}/power-creep/local.env}"
+if [[ -f "$CONFIG" ]]; then source "$CONFIG"; fi
+# The runner defaults to 32 concurrent LLM evaluations; reserve one CPU per
+# worker so scheduler allocation matches the configured concurrency.
+#SBATCH --cpus-per-task 32
+#SBATCH --mem=8G
+#SBATCH --time 2:00:00
+#SBATCH --job-name judge-fixtures
+#SBATCH --output ./logs/judge-fixtures.job.log
+
+# Run the LLM fixture suite against the separately hosted vLLM service.
+# Optional arguments are forwarded to tests/test_llm_judge.py, e.g.:
+#   sbatch jobs/test_llm_judge.job --workers 1
+
+set -euo pipefail
+export PYTHONUNBUFFERED=1
+
+REPO="${SLURM_SUBMIT_DIR:-$(pwd)}"
+cd "$REPO"
+
+# Prefer the endpoint file when it is available.  The runner can still
+# auto-detect a running vLLM SLURM job if the file has not been written yet.
+if [[ -f "$REPO/vllm.endpoints" ]]; then
+    source "$REPO/vllm.endpoints"
+fi
+
+PYTHON="${POWER_CREEP_PYTHON:-python3}"
+
+echo "=== LLM fixture suite starting on $(hostname) at $(date) ==="
+echo "LLM: ${VLLM_LLM_URL:-auto-detect}"
+echo "========================================================="
+
+"$PYTHON" "$REPO/tests/test_llm_judge.py" "$@"
+
+echo "========================================================="
+echo "Done at $(date)"

@@ -1,0 +1,117 @@
+{
+  "36.4.0.250339": {
+    "commit": "bc742d57e0b057326b8cbf74fdf5f995310720f3",
+    "source_xml_sha256": "b767ffdccfbb0392e37c799bfc84f7e21dd72acc3dd622e76a67969a456e3ca6",
+    "direct_acquisition_tag_names": []
+  },
+  "23.4.0.139963": {
+    "commit": "d95f1fcf75d638bdcc4b8ee3714e46473a068f33",
+    "source_xml_sha256": "a5caee38e7f6f2fb74aae1160bbad2d6c4204d2e5f8e4535a7a16bfe7f3a60df",
+    "direct_acquisition_tag_names": []
+  },
+  "9.0.0.20457": {
+    "commit": "6f874a2b18045ed3464983aff85ca106bc656916",
+    "source_xml_sha256": "90049ebf5dcd8c605ac653e3d36852babe203626f783d0ad1c1a5c96a03b64f1",
+    "direct_acquisition_tag_names": []
+  },
+  "28.6.3.195316": {
+    "commit": "b0d06776272138cab032979722d18ca4de6545f0",
+    "source_xml_sha256": "326d2fe2662a8931f0a1f19aa1ceeb90808c75703ce98ba5ad4230b07ce6b0a9",
+    "direct_acquisition_tag_names": []
+  },
+  "22.0.2.128654": {
+    "commit": "e7f2358de4198ecf539f2a9597656d165ee6d16f",
+    "source_xml_sha256": "23c19bae0cd10f39ef1fb027f7146f53ba1ee94b12c4099d23196c6a39f723b6",
+    "direct_acquisition_tag_names": []
+  },
+  "31.0.0.210640": {
+    "commit": "e126d7460035edc7a5c66ed3d9afdd1260e85b9e",
+    "source_xml_sha256": "c6401a0177246c1e8ee38efb2bc8b4ac70d02f53f74ce89cc3cdc1394e5f71ba",
+    "direct_acquisition_tag_names": []
+  },
+  "2.3.0.8108": {
+    "commit": "e02cb678dafc86a529663483b58f997734a08d1b",
+    "source_xml_sha256": "2b2af1edde74c8258c51a597fa1cc9cd0ffbe898ec5022d3681829246ab004fa",
+    "direct_acquisition_tag_names": []
+  },
+  "27.0.3.183433": {
+    "commit": "8e245b2261e8ad268fdc1b6be514a9116cf2fef4",
+    "source_xml_sha256": "5fcbdeb3fcf7b3385058304e8b2c14fafe9306f0ce851dfbbf83109ea7047c98",
+    "direct_acquisition_tag_names": []
+  },
+  "25.6.2.170126": {
+    "commit": "da8f2db996f1e7191e501ebe2943af5636697e06",
+    "source_xml_sha256": "df31e3949cf6219e14d2d54d9fcdc58dc4442937494b2c214945d321d793a055",
+    "direct_acquisition_tag_names": []
+  },
+  "22.4.3.133122": {
+    "commit": "e4b1878c73c1672885ad09f8df00d29d99d2aa22",
+    "source_xml_sha256": "0adff968df2391971c628cdf41570ff3e10edfcfde0f4b49e49d2303c57e0707",
+    "direct_acquisition_tag_names": []
+  },
+  "20.0.0.77662": {
+    "commit": "9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62",
+    "source_xml_sha256": "36879caf88f629052e57d728d1fb3649a21f7198f649ab1cdc916c72ab1b8e29",
+    "direct_acquisition_tag_names": []
+  },
+  "22.6.0.134558": {
+    "commit": "d48f0a5642df703653cfe141e94310dfb78b5642",
+    "source_xml_sha256": "ec899c579c7425236b1f27a585153bf40845626b46b6144647f9649bd399a481",
+    "direct_acquisition_tag_names": []
+  },
+  "27.4.2.186852": {
+    "commit": "8ccc0f4629c876f2491af3ed8ae42b93877f98c7",
+    "source_xml_sha256": "21f6b859dba99848dda7307795a5bf71c383dd55bddd3ab933e8c65335ca2827",
+    "direct_acquisition_tag_names": []
+  },
+  "23.4.3.141643": {
+    "commit": "bdbccfdb08b8535178575d712f4fbfde13ccbed8",
+    "source_xml_sha256": "6c67eb8ee931bba527b553eccd4cfe4578e9bec1fc081636896eb1392dc93aee",
+    "direct_acquisition_tag_names": []
+  },
+  "27.2.2.185054": {
+    "commit": "61eb4127e7466feced9e42727f77d1b2187554c3",
+    "source_xml_sha256": "e61675459f33e9938ca68073b95e5df84d59531dee5436ff7469ed4607232135",
+    "direct_acquisition_tag_names": []
+  },
+  "35.2.2.240818": {
+    "commit": "0c48b3cbe897e7cff6ef5f5722d0421c3711430e",
+    "source_xml_sha256": "41f9a950f967df4e187876cdd3c4dbbde1db92fc8b4b785bfe2587e6539c0859",
+    "direct_acquisition_tag_names": []
+  },
+  "30.0.0.204283": {
+    "commit": "a5e5be159e788d91c450d54643a32591a47e9faf",
+    "source_xml_sha256": "7544a9983d9a9a43d4631942f9d1a32221468e7b463ea196b6b97a228bc4626b",
+    "direct_acquisition_tag_names": []
+  },
+  "14.4.4.31353": {
+    "commit": "357fd33c354c4435c0b6a5f3ae68cd6e46601605",
+    "source_xml_sha256": "cf6cd40270ca1632413e28bb45a7cdf6b91cfbe8287c4d5632a83433781720bc",
+    "direct_acquisition_tag_names": []
+  },
+  "31.2.2.213852": {
+    "commit": "f26de4079261da86afd70b5a28b0a5abf20e7837",
+    "source_xml_sha256": "414c82746b56524910f70edd59ef6123fa39e4fc07e26ecc2b69fe20e37bec67",
+    "direct_acquisition_tag_names": []
+  },
+  "26.0.2.172421": {
+    "commit": "9b76feb3155f6416239b5bc13c8977974b5225eb",
+    "source_xml_sha256": "e08e6337ebe7a9b95f04d84df785f91e5844c878e29f9c745a7721df12fa0004",
+    "direct_acquisition_tag_names": []
+  },
+  "20.2.0.81706": {
+    "commit": "ff28eca10bb7024bd9f7c92a3fa0e2ab63a5e78d",
+    "source_xml_sha256": "12486a204b054630eaf08988ae1c886a03995f4e08497b6ce004987e8ffcd832",
+    "direct_acquisition_tag_names": []
+  },
+  "17.2.0.47374": {
+    "commit": "5917d30ad2bb049d99b8f70c77c13c796420ddf1",
+    "source_xml_sha256": "a6f818880d3403204e3562ae61c0cba2ade4ff40a994aea002c8d674dda73cad",
+    "direct_acquisition_tag_names": []
+  },
+  "34.6.2.236529": {
+    "commit": "0a5a61e3867ae9eea535bdbd4df714671ff87910",
+    "source_xml_sha256": "7dac9874ff56544d1b2c43c6e446fad519f059b66073c3960318a01c32d66a26",
+    "direct_acquisition_tag_names": []
+  }
+}

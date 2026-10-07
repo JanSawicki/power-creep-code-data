@@ -1,0 +1,79 @@
+# Source-to-claim ledger
+
+Checked 2026-10-03 against original papers, primary card-source history, and Blizzard pages. Page numbers refer to published pagination when available. The supplementary source transitions preserve card IDs and Git objects. Downloaded full-text reading copies are local research aids outside the submission package and are not redistributed. The manuscript uses targeted, page-supported interpretations rather than claiming a systematic literature review.
+
+| Source | Support actually used | Locator and boundary |
+| --- | --- | --- |
+| [Magruder (2022)](https://doi.org/10.1177/15554120211050812) | Equivalent Oracle text; exclusion of added upside; strictness; face counting and release order; base/expanded reprint models | pp. 732, 735–740; local full paper. Does not establish that physical rules are immutable or that all reprints are excluded. |
+| [Giddings & Harvey (2018)](https://doi.org/10.1177/1555412018755912); [accepted manuscript](https://eprints.soton.ac.uk/418896/1/Introduction_Ludic_Economics_101.pdf) | Specific tensions in game economies; grounded analysis instead of a predetermined evaluation | Accepted-manuscript pp. 1–3, 5–6. Its author order differs on the manuscript cover; published order is Giddings and Harvey. |
+| [Nieborg & Poell (2018)](https://doi.org/10.1177/1461444818769694); [repository full paper](https://pure.uva.nl/ws/files/31895348/The_platformization_of_cultural_pr) | Two senses of contingency; reworkable goods; original platformization scope | Published pp. 4276–4277 and conclusion pp. 4288–4289. Collection-level application is our interpretation, not an established finding of that paper. |
+| [Švelch (2019)](https://doi.org/10.1177/1461444819828987); [accepted manuscript](https://trepo.tuni.fi/bitstream/handle/10024/116788/resisting_the_perpetual_update_2019.pdf?sequence=2) | Updating as control; historical optionality and player resistance | Accepted-manuscript pp. 1, 6–10, 13–14. No claim that this study observes Hearthstone resistance or experiences. |
+| [Crafting article](https://hearthstone.blizzard.com/en-us/news/10245930/hearthstone-crafting-in-dust-we-trust) | Normal crafting/disenchanting values and surrender mechanics | Byline Zeriyah, June 20, 2013. Use named byline in APA reference. |
+| [29.4.2 notes](https://hearthstone.blizzard.com/en-gb/news/24077480) | Core copies cannot be crafted/disenchanted; craftable printings distinct | May 23, 2024. This URL is NOT a February Core announcement; reference metadata corrected in the manuscript. |
+| [21.8 notes](https://hearthstone.blizzard.com/en-us/news/23746636) | Tyrantus missing-trait repair | November 16, 2021, launch today; bug-fix section. No Tyrantus-specific refund asserted. |
+| [27.6 notes](https://hearthstone.blizzard.com/en-us/news/23989479) | Tyrantus 14/14 plus Taunt; Twist preparation context | October 17, 2023; attributed developer context is not verified motive. |
+| [21.3 notes](https://hearthstone.blizzard.com/en-gb/news/23724327/21-3) | Demon Seed first two stages, Wild ban, refunds | Published September 20, 2021; releases tomorrow, therefore September 21 event. |
+| [26.0 notes](https://hearthstone.blizzard.com/en-us/news/23934449) | Demon Seed all-stage ten requirement, Wild unban, two-week refund | Published April 3, 2023; launches tomorrow, therefore April 4 event. |
+| [31.2.2 notes](https://hearthstone.blizzard.com/en-us/news/24167660) | Demon Seed all-stage twelve; eligible disenchantable full refunds | December 17, 2024. |
+| [5.0 notes](https://hearthstone.blizzard.com/en-us/news/20097359/hearthstone-patch-notes-50012574-whispers-of-the-old-gods-4-24-2016) | Big Game Hunter three-to-five Mana; limited full dust period | Byline Daxxarri; April 24, 2016 publication. Exact launch date and refund cutoff not separately established. Figure uses a clearly labeled notes-publication marker. |
+| [20.0 notes](https://news.blizzard.com/en-gb/article/23642550/20-0-patch-notes) plus [hsdata](https://github.com/HearthSim/hsdata) | March 25 patch schedule and March 30 Core availability; BGH changes in primary build state | BGH five-to-four appears in EX1_005 and CORE_EX1_005 at 20.0.0.77662; VAN_EX1_005 stays three. Notes do not themselves list BGH change. Hollow figure marker distinguishes joint attribution. |
+| [29.0 notes](https://hearthstone.blizzard.com/en-us/news/24064735/29-0-patch-notes) plus [Pegasus sheet](https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/94/94WZXNUTKAHL1707627244485.pdf) | March 11 card changes versus March 19 rotation; BGH Tradeable; Evasive Wyrm nonfunctional wording | Tyrantus UNG_852 also changes to Elusive in source build 29.0.0.195635; source-linked hollow marker, not a named patch-note entry. |
+| [32.0 notes](https://hearthstone.blizzard.com/en-us/news/24187196/) plus [Raptor sheet](https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/5L4LK5ASYDUL1739227664823.pdf) | Evasive Wyrm 5/4; March 18 changes versus March 25 rotation | Both DRG_079 and CORE_DRG_079 source states change at 32.0.0.217964. |
+| [Goblins vs Gnomes launch](https://hearthstone.blizzard.com/en-us/news/16960836) | December 8, 2014 Americas; December 9 other specified regions; crafting route | Snowchugger GVG_002 primary source state starts 2.0.0.7234, exact 2-Mana 2/3 Freeze state. Region-specific availability preserved. |
+| [TITANS announcement](https://hearthstone.blizzard.com/en-us/news/23973114/announcing-titans-hearthstone-s-next-expansion) | August 1, 2023 worldwide expansion launch | Chill-o-matic TTN_077 primary state starts 27.0.0.181554, 2-Mana 2/3 Freeze and Magnetic. Build inclusion is not launch. |
+| [HearthSim source](https://github.com/HearthSim/hsdata) | Questline stages and Blightborn Tamsin; printing-specific transitions | source_case_transitions.csv records exact Git objects. Noncollectible stages are outside aggregate corpus. |
+
+## Known-error and scope decisions
+
+- Evasive Wyrm wording-only retained positives: equivalent ability, not a meaningful improvement. Two reported endpoints at unchanged 5/3 Elusive are disclosed; aggregate input remains untouched.
+- Tyrantus missing protection: explicitly repaired trait, not five newly designed buffs. Independent event categories supersede a naive interpretation of comparison counts.
+- Demon Seed: four retained first-stage states imply six pairwise comparisons. Source extraction recovers 6/7/8 → 8/8/8 → 10/10/10 → 12/12/12, with unchanged saved reward context; three adjacent requirement interventions.
+- Snowchugger → Chill-o-matic: criteria-level effect preservation and optional Magnetic mode, exact compared versions retained; ordinary crafting scenario conditional, no universal game-state superiority asserted. This source check is not independent human validation of the 152 relationships.
+- Provenance gaps, unavailable review decisions, and human annotations are labeled unknown rather than reconstructed from assumptions.
+
+## Literature additions verified October 4, 2026
+
+- Becker & Görlich (2020), DOI https://doi.org/10.55969/paradigmplus.v1n1a2: semantic analysis of fourteen practitioner accounts finds no common core definition of balancing. Used to distinguish the manuscript's restricted dominance relation from broader balance/fairness claims. Verified against https://journals.itiud.org/index.php/paradigmplus/article/view/7 (authors, year, volume 1(1), pp. 22–41, abstract).
+- Hodge et al. (2019), DOI https://doi.org/10.1109/TG.2018.2803843: longitudinal comparison of three customizable card games relates card distribution to deck-building/engagement. Used as context, without attributing spending or engagement effects to our comparisons. Final issue metadata 11(4), 374–385 verified against Durham university repository; authors and abstract corroborated by https://eprints.whiterose.ac.uk/id/eprint/128781/. The accepted/online version dates to 2018, whereas the cited issue is 2019.
+- Ramos (2026), DOI https://doi.org/10.1177/15554120241273867: MTGO permits trading and connects to real-world markets through set redemption. Used to delimit generalization of Hearthstone's dust scenarios, not as evidence about Hearthstone behavior. Publisher full article and metadata verify 21(4), 647–665 (June 2026); online-first date August 19, 2024.
+
+The Google-generated report was treated as a discovery aid, not a bibliographic authority. All three additions were checked against original sources; the manuscript does not import its placeholder authors or unsupported claims.
+
+
+## Related-paper additions verified October 4, 2026
+
+- Howard (2019), DOI https://doi.org/10.26503/todigra.v4i3.103: full journal text, pp. 147–169, especially pp. 151–157 on method, card mutability, acquisition, and playability, and pp. 158–164 on time/money and player identity. Used as an interpretive predecessor to collection-maintenance analysis, not causal evidence about spending or win rates. Correct author: Kenton Taylor Howard. Source: https://todigra.org/index.php/todigra/article/download/1773/1773/1770.
+- Freeman et al. (2022), DOI https://doi.org/10.1145/3549510: full author-hosted text, sections 4, 5.2.2, and 6.3; content analysis of 2,685 Reddit posts/comments across five games, including competing views of paid advantages and accounts of viable low-cost Hearthstone play. Used to distinguish conditional dust requirements from perceived fairness and compulsory spending; keyword-selected forum data do not represent all players or measure competitive advantage. Correct authors: Guo Freeman, Karen Wu, Nicholas Nower, Donghee Yvette Wohn; volume 6(CHI PLAY), Article 247, 24 pages. Source: https://yvettewohn.com/wp-content/uploads/2022/12/2022_chiplay.pdf.
+- Hoover et al. (2020), DOI https://doi.org/10.1007/s13218-019-00615-z: full author preprint, sections 4.1–4.3 and 6.2 on deck dominance, strategies, synergies, and contextual card balance. Used to delimit card-level comparisons from deck performance and metagame balance, not validate the detector. Publisher confirms volume 34, pp. 33–43 (2020), online September 7, 2019. Sources: https://arxiv.org/abs/1907.06562 and https://link.springer.com/article/10.1007/s13218-019-00615-z.
+
+Stiegler et al. (2018) and Reis et al. (2021) were read in full but omitted: their playing-agent evaluation and proposed Pokémon balance competition are peripheral to the current collection-resource argument. The discovery list's author names and Hoover's final issue year were corrected.
+
+## Magruder bibliography additions verified October 5, 2026
+
+Discovery: backward citation search in Magruder (2022), pp. 749–751. Three relevant works were checked against full original texts and DOI metadata; this was a targeted search, not a systematic review. AI-assisted source assessment and drafting were followed by local citation and compilation checks. Reading copies are cached outside the supplement.
+
+- Falcão & Marques (2019), https://doi.org/10.18568/cmc.v16i47.1894; English full text: https://revistacmc.espm.br/revistacmc/article/download/1894/pdf_1/6996. Introduction and pp. 539–549 connect serialization, power creep, commercial acquisition, and YouTube discourse; pp. 543–549 discuss free/expansion cards and updating older cards. Used as an interpretive predecessor, not proof of spending or developer motives in our sample. Pagination follows the English PDF's printed range, 529–553; Crossref reports 530–554, and the DOI title is Portuguese. The bibliography uses the published English title of the consulted translation, as Magruder does.
+- Zuin & Veloso (2019), https://doi.org/10.1109/CIG.2019.8847946; original conference paper: https://ieee-cog.org/2019/papers/paper_119.pdf. Abstract and sections I, III–IV explain learning text representations and combining other features to predict Magic Mana costs. Used to contrast expected in-game cost prediction with explicit card comparisons and acquisition dust. No model accuracy is attributed to our detector. DOI metadata confirms authors, conference, year, and pp. 1–8.
+- Chen et al. (2018), https://doi.org/10.1109/CIG.2018.8490446; author-hosted full text: https://web.cs.ucla.edu/~yzsun/papers/2018_cig_deckrec.pdf. Abstract and sections I–III frame deck optimization against specified opponents and account for card combinations. Used to distinguish deck evaluation from card-level comparison; no adoption or unconditional superiority claim. Original cover and DOI metadata verify Christopher Amato, Truong-Huy D. Nguyen, and Magy Seif El-Nasr; conference pagination is 1–8.
+
+Zuin, Chaimowicz & Veloso's later journal paper was not added: the checked 2019 conference paper supplies the specific methodological comparison without relying on an unread full journal text.
+
+
+## October 6 author revision
+
+P097 and P020 exact compared versions are in human_review/pairs.csv. P097 illustrates increased Health at unchanged Mana/Attack/type/tribe/effect text. Blizzard’s Magnetic explanation supports optional attachment and standalone deployment: https://news.blizzard.com/en-us/article/21953431/hearthside-chat-with-stephen-chang-magnetic . P020’s NO-to-YES correction and retrospective rationale are append-only in human_review/decisions.jsonl. P127 remains YES under the qualitative ordinary-use author interpretation in human_review/author-interpretation.md; no measured game-state frequency or universal dominance is claimed.
+
+## Definition counterexamples added October 7
+
+- Mind Control: official Blizzard card library, https://hearthstone.blizzard.com/en-gb/cards/8-mind-control/ establishes Priest class and taking control of an enemy minion. The conclusion that higher stolen statistics can harm the original controller is analytical reasoning, not a frequency estimate.
+- Hemet Nesingwary: official Blizzard card library, https://hearthstone.blizzard.com/en-gb/cards/2088-hemet-nesingwary/ establishes the Beast-destruction Battlecry. Beast-versus-tribeless vulnerability is an illustrative conditional comparison, not an observed dominance rate.
+- Illustrations: original wiki.gg PNGs CS1_113 and GVG_120, verified against the wiki page image links and visually inspected; hashes, dimensions, credits, and URLs in card_image_sources.json.
+- Hearthstone expert reviewer experience: described in the October 7 revision; the expert's identity is unspecified and the experience is not independently verified. Over 2,000 hours since release with breaks over more than ten years. This is expertise context, not independent annotation or an accuracy estimate.
+
+## October 7 acquisition eligibility audit
+
+- Local hsdata source commits and XML hashes: acquisition_audit/source_builds.json. Exact IDs recovered for every represented state using all saved comparison fields; COLLECTIBLE is not a craftability flag.
+- wiki.gg acquisition evidence: acquisition_audit/wiki_evidence.json and card_audit.json; matching card IDs, acquisition excerpts, revision URLs, and retrieved page hashes. General rules: https://hearthstone.wiki.gg/wiki/Crafting and https://hearthstone.wiki.gg/wiki/Core_reserve.
+- Included accepted pairs: all 89 assignments match the source audit. Excluded accepted pairs: 18 reserve baselines and 10 candidates without an ordinary crafting route. This establishes ordinary-copy availability rules at retrieval, not every historical transaction or actual holdings.
+- Hallucination UNG_856 was renamed Spore Hallucination; the separate modern Hallucination SC_757 is not substituted. Historical Core_ versus CORE_ ID casing is recorded explicitly.
+- P074 and P112 use the noncraftable event version CATA_EVENT_401 of Tunneling Geomancer: https://hearthstone.wiki.gg/wiki/Tunneling_Geomancer. The two candidate crafting costs are established, but the event baseline's recovery eligibility is not explicitly established; both pairs remain economically excluded and human-rejected.

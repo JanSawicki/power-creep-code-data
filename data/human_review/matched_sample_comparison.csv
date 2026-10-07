@@ -1,0 +1,11 @@
+sample,quantity,n,median,mean,min,max
+original_detector,nominal_price_difference,102,0.0,54.31372549019608,-300,400
+original_detector,candidate_craft,102,40.0,94.70588235294117,40,400
+original_detector,additional_dust,102,40.0,90.49019607843137,20,400
+original_detector,net_dust,102,40.0,90.49019607843137,20,400
+original_detector,surplus_dust,102,0.0,0,0,0
+human_accepted,nominal_price_difference,89,0,48.98876404494382,-300,360
+human_accepted,candidate_craft,89,40,86.51685393258427,40,400
+human_accepted,additional_dust,89,40,82.92134831460675,20,400
+human_accepted,net_dust,89,40,82.92134831460675,20,400
+human_accepted,surplus_dust,89,0,0,0,0

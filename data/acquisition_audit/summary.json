@@ -1,0 +1,35 @@
+{
+  "audited_at": "2026-10-07T10:30:31.975887+00:00",
+  "pairs": 145,
+  "human_accepted_pairs": 117,
+  "accepted_pair_status": {
+    "VERIFIED_ORDINARY_RULES": 89,
+    "BASELINE_CORE_RESERVE": 18,
+    "CANDIDATE_NOT_CRAFTABLE": 10
+  },
+  "unique_card_states": 220,
+  "exact_source_states_recovered": 220,
+  "wiki_pages": 219,
+  "wiki_fetch_status": {
+    "FETCHED": 219
+  },
+  "card_status": {
+    "REGULAR_CRAFTABLE": 167,
+    "CORE_OR_RESERVE_NO_DUST": 37,
+    "REGULAR_UNCRAFTABLE": 15,
+    "REGULAR_UNCRAFTABLE_RECOVERY_UNRESOLVED": 1
+  },
+  "pair_status": {
+    "VERIFIED_ORDINARY_RULES": 102,
+    "BASELINE_CORE_RESERVE": 20,
+    "CANDIDATE_NOT_CRAFTABLE": 21,
+    "UNRESOLVED": 2
+  },
+  "direct_craftability_tags_found": false,
+  "limitations": [
+    "hsdata exposes IDs, set membership and collectible flags, not direct crafting/disenchanting flags for these states.",
+    "Wiki evidence describes availability at retrieval, not every retained historical build.",
+    "Core reserve versions are not substituted with same-name owned originals.",
+    "Normal-copy crafting and ordinary recovery only; no refund windows or actual holdings."
+  ]
+}

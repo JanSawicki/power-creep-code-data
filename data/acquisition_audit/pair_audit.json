@@ -1,0 +1,2467 @@
+[
+  {
+    "pair_id": "P001",
+    "baseline_card_ids": [
+      "CS2_232"
+    ],
+    "candidate_card_ids": [
+      "GDB_855"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Ironbark_Protector?oldid=477812",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Star_Grazer?oldid=900983"
+  },
+  {
+    "pair_id": "P002",
+    "baseline_card_ids": [
+      "AT_040"
+    ],
+    "candidate_card_ids": [
+      "CFM_816"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Wildwalker?oldid=805693",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Virmen_Sensei?oldid=816674"
+  },
+  {
+    "pair_id": "P003",
+    "baseline_card_ids": [
+      "CORE_EX1_571"
+    ],
+    "candidate_card_ids": [
+      "GDB_882"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 400,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Force_of_Nature_(Core)?oldid=467617",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Cosmic_Phenomenon?oldid=820011"
+  },
+  {
+    "pair_id": "P005",
+    "baseline_card_ids": [
+      "EX1_183"
+    ],
+    "candidate_card_ids": [
+      "ETC_373"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Gift_of_the_Wild?oldid=899954",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Drum_Circle?oldid=138631"
+  },
+  {
+    "pair_id": "P006",
+    "baseline_card_ids": [
+      "SCH_427"
+    ],
+    "candidate_card_ids": [
+      "EX1_169"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_UNCRAFTABLE",
+    "candidate_craft": null,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Lightning_Bloom?oldid=874129",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Innervate?oldid=164483"
+  },
+  {
+    "pair_id": "P007",
+    "baseline_card_ids": [
+      "CORE_CS2_013"
+    ],
+    "candidate_card_ids": [
+      "WON_014"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Wild_Growth_(Core)?oldid=233088",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Invigorate?oldid=767253"
+  },
+  {
+    "pair_id": "P008",
+    "baseline_card_ids": [
+      "CORE_CS2_013"
+    ],
+    "candidate_card_ids": [
+      "WON_014"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Wild_Growth_(Core)?oldid=233088",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Invigorate?oldid=767253"
+  },
+  {
+    "pair_id": "P009",
+    "baseline_card_ids": [
+      "CORE_CS2_013"
+    ],
+    "candidate_card_ids": [
+      "CFM_713"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Wild_Growth_(Core)?oldid=233088",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Jade_Blossom?oldid=911430"
+  },
+  {
+    "pair_id": "P010",
+    "baseline_card_ids": [
+      "BOT_420"
+    ],
+    "candidate_card_ids": [
+      "CORE_REV_336"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Landscaping?oldid=833846",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Plot_of_Sin_(Core)?oldid=818844"
+  },
+  {
+    "pair_id": "P012",
+    "baseline_card_ids": [
+      "CORE_CS2_013"
+    ],
+    "candidate_card_ids": [
+      "VAC_949"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 400,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Wild_Growth_(Core)?oldid=233088",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/New_Heights?oldid=806047"
+  },
+  {
+    "pair_id": "P013",
+    "baseline_card_ids": [
+      "CORE_CS2_013"
+    ],
+    "candidate_card_ids": [
+      "CFM_616"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 400,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Wild_Growth_(Core)?oldid=233088",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Pilfered_Power?oldid=816675"
+  },
+  {
+    "pair_id": "P014",
+    "baseline_card_ids": [
+      "EDR_843"
+    ],
+    "candidate_card_ids": [
+      "Core_LOE_115"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 100,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Reforestation?oldid=839948",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Raven_Idol_(Core)?oldid=889137"
+  },
+  {
+    "pair_id": "P015",
+    "baseline_card_ids": [
+      "AT_010"
+    ],
+    "candidate_card_ids": [
+      "BAR_037"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 400,
+    "baseline_recovery": 20,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Ram_Wrangler?oldid=904954",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Warsong_Wrangler?oldid=507592"
+  },
+  {
+    "pair_id": "P016",
+    "baseline_card_ids": [
+      "CORE_DS1_185"
+    ],
+    "candidate_card_ids": [
+      "SCH_604"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Arcane_Shot_(Core)?oldid=888951",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Overwhelm?oldid=389211"
+  },
+  {
+    "pair_id": "P017",
+    "baseline_card_ids": [
+      "SC_021"
+    ],
+    "candidate_card_ids": [
+      "YOG_505"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Evolution_Chamber?oldid=834383",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Bestial_Madness?oldid=791883"
+  },
+  {
+    "pair_id": "P018",
+    "baseline_card_ids": [
+      "DAL_373"
+    ],
+    "candidate_card_ids": [
+      "OG_061"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Rapid_Fire?oldid=846564",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/On_the_Hunt?oldid=810801"
+  },
+  {
+    "pair_id": "P019",
+    "baseline_card_ids": [
+      "BOT_601"
+    ],
+    "candidate_card_ids": [
+      "WW_426"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 20,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Meteorologist?oldid=833877",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Blastmage_Miner?oldid=841247"
+  },
+  {
+    "pair_id": "P020",
+    "baseline_card_ids": [
+      "GVG_002"
+    ],
+    "candidate_card_ids": [
+      "TTN_077"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Snowchugger?oldid=767322",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Chill-o-matic?oldid=540779"
+  },
+  {
+    "pair_id": "P021",
+    "baseline_card_ids": [
+      "RLK_543"
+    ],
+    "candidate_card_ids": [
+      "EX1_608"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Magister%27s_Apprentice",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Sorcerer%27s_Apprentice"
+  },
+  {
+    "pair_id": "P022",
+    "baseline_card_ids": [
+      "VAC_520"
+    ],
+    "candidate_card_ids": [
+      "EX1_277"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_UNCRAFTABLE",
+    "candidate_craft": null,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Seabreeze_Chalice?oldid=803826",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Arcane_Missiles?oldid=439244"
+  },
+  {
+    "pair_id": "P023",
+    "baseline_card_ids": [
+      "VAC_520"
+    ],
+    "candidate_card_ids": [
+      "EX1_277"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_UNCRAFTABLE",
+    "candidate_craft": null,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Seabreeze_Chalice?oldid=803826",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Arcane_Missiles?oldid=439244"
+  },
+  {
+    "pair_id": "P024",
+    "baseline_card_ids": [
+      "AT_001"
+    ],
+    "candidate_card_ids": [
+      "DED_517"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Flame_Lance?oldid=805726",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Arcane_Overflow?oldid=277042"
+  },
+  {
+    "pair_id": "P025",
+    "baseline_card_ids": [
+      "AT_001"
+    ],
+    "candidate_card_ids": [
+      "DRG_321"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 400,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Flame_Lance?oldid=805726",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Rolling_Fireball?oldid=908837"
+  },
+  {
+    "pair_id": "P026",
+    "baseline_card_ids": [
+      "AT_001"
+    ],
+    "candidate_card_ids": [
+      "CATA_978"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Flame_Lance?oldid=805726",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Sindragosa%27s_Triumph"
+  },
+  {
+    "pair_id": "P030",
+    "baseline_card_ids": [
+      "EX1_180"
+    ],
+    "candidate_card_ids": [
+      "EDR_872"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Tome_of_Intellect?oldid=113884",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Spark_of_Life?oldid=841148"
+  },
+  {
+    "pair_id": "P031",
+    "baseline_card_ids": [
+      "CORE_CS2_182"
+    ],
+    "candidate_card_ids": [
+      "JAIL_883"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Chillwind_Yeti_(Core)?oldid=451201",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Activated_Golem?oldid=911979"
+  },
+  {
+    "pair_id": "P032",
+    "baseline_card_ids": [
+      "DAL_092"
+    ],
+    "candidate_card_ids": [
+      "TSC_069"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 400,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Arcane_Servant?oldid=846474",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Amalgam_of_the_Deep?oldid=340096"
+  },
+  {
+    "pair_id": "P033",
+    "baseline_card_ids": [
+      "CORE_CS2_120"
+    ],
+    "candidate_card_ids": [
+      "TSC_069"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 400,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/River_Crocolisk_(Core)?oldid=474269",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Amalgam_of_the_Deep?oldid=340096"
+  },
+  {
+    "pair_id": "P034",
+    "baseline_card_ids": [
+      "CORE_LOOT_137"
+    ],
+    "candidate_card_ids": [
+      "TIME_052"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 400,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Sleepy_Dragon_(Core)?oldid=889009",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Amber_Warden?oldid=891035"
+  },
+  {
+    "pair_id": "P035",
+    "baseline_card_ids": [
+      "DRG_081"
+    ],
+    "candidate_card_ids": [
+      "RLK_915"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Scalerider?oldid=908765",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Amber_Whelp?oldid=333206"
+  },
+  {
+    "pair_id": "P036",
+    "baseline_card_ids": [
+      "CS2_127"
+    ],
+    "candidate_card_ids": [
+      "TLC_242"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Silverback_Patriarch?oldid=900471",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Ancient_Stegodon?oldid=903996"
+  },
+  {
+    "pair_id": "P037",
+    "baseline_card_ids": [
+      "BOT_539"
+    ],
+    "candidate_card_ids": [
+      "ETC_088"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 20,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Arcane_Dynamo?oldid=908748",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Ghost_Writer?oldid=791879"
+  },
+  {
+    "pair_id": "P038",
+    "baseline_card_ids": [
+      "DAL_092"
+    ],
+    "candidate_card_ids": [
+      "TTN_479"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Arcane_Servant?oldid=846474",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Flame_Revenant?oldid=766913"
+  },
+  {
+    "pair_id": "P039",
+    "baseline_card_ids": [
+      "CS2_155"
+    ],
+    "candidate_card_ids": [
+      "DAL_096"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Archmage?oldid=359469",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Violet_Warden?oldid=846491"
+  },
+  {
+    "pair_id": "P040",
+    "baseline_card_ids": [
+      "CORE_EX1_008"
+    ],
+    "candidate_card_ids": [
+      "TSC_632"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Argent_Squire_(Core)?oldid=88604",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Click-Clocker?oldid=922108"
+  },
+  {
+    "pair_id": "P041",
+    "baseline_card_ids": [
+      "CS1_069"
+    ],
+    "candidate_card_ids": [
+      "TSC_919"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Fen_Creeper?oldid=887709",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Azsharan_Sentinel?oldid=501849"
+  },
+  {
+    "pair_id": "P042",
+    "baseline_card_ids": [
+      "CS2_187"
+    ],
+    "candidate_card_ids": [
+      "TSC_919"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Booty_Bay_Bodyguard?oldid=514610",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Azsharan_Sentinel?oldid=501849"
+  },
+  {
+    "pair_id": "P043",
+    "baseline_card_ids": [
+      "CS2_121"
+    ],
+    "candidate_card_ids": [
+      "EDR_470"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Frostwolf_Grunt?oldid=791020",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Barkshield_Sentinel?oldid=839244"
+  },
+  {
+    "pair_id": "P044",
+    "baseline_card_ids": [
+      "JAIL_718"
+    ],
+    "candidate_card_ids": [
+      "CORE_EX1_095"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 100,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Black_Market_Auctioneer?oldid=911351",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Gadgetzan_Auctioneer_(Core)?oldid=21963"
+  },
+  {
+    "pair_id": "P045",
+    "baseline_card_ids": [
+      "DRG_239"
+    ],
+    "candidate_card_ids": [
+      "WW_331"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Blazing_Battlemage?oldid=908757",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Miracle_Salesman?oldid=778897"
+  },
+  {
+    "pair_id": "P046",
+    "baseline_card_ids": [
+      "CS2_172"
+    ],
+    "candidate_card_ids": [
+      "LOE_046"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Bloodfen_Raptor?oldid=903856",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Huge_Toad?oldid=806300"
+  },
+  {
+    "pair_id": "P047",
+    "baseline_card_ids": [
+      "CS2_121"
+    ],
+    "candidate_card_ids": [
+      "BT_715"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Frostwolf_Grunt?oldid=791020",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Bonechewer_Brawler?oldid=926221"
+  },
+  {
+    "pair_id": "P048",
+    "baseline_card_ids": [
+      "CS2_187"
+    ],
+    "candidate_card_ids": [
+      "AT_114"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Booty_Bay_Bodyguard?oldid=514610",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Evil_Heckler?oldid=805614"
+  },
+  {
+    "pair_id": "P049",
+    "baseline_card_ids": [
+      "Core_CS2_200"
+    ],
+    "candidate_card_ids": [
+      "VAC_441"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Boulderfist_Ogre_(Core)?oldid=889136",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Package_Dealer?oldid=873765"
+  },
+  {
+    "pair_id": "P050",
+    "baseline_card_ids": [
+      "OG_327"
+    ],
+    "candidate_card_ids": [
+      "BOT_021"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Squirming_Tentacle?oldid=922315",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Bronze_Gatekeeper?oldid=833799"
+  },
+  {
+    "pair_id": "P051",
+    "baseline_card_ids": [
+      "CS2_150"
+    ],
+    "candidate_card_ids": [
+      "BT_717"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Stormpike_Commando?oldid=778636",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Burrowing_Scorpid?oldid=926228"
+  },
+  {
+    "pair_id": "P052",
+    "baseline_card_ids": [
+      "EX1_023"
+    ],
+    "candidate_card_ids": [
+      "ETC_543"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Silvermoon_Guardian?oldid=778618",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Candleraiser?oldid=827133"
+  },
+  {
+    "pair_id": "P053",
+    "baseline_card_ids": [
+      "CORE_CS2_182"
+    ],
+    "candidate_card_ids": [
+      "DMF_532"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Chillwind_Yeti_(Core)?oldid=451201",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Circus_Amalgam?oldid=365773"
+  },
+  {
+    "pair_id": "P054",
+    "baseline_card_ids": [
+      "CORE_CS2_182"
+    ],
+    "candidate_card_ids": [
+      "EDR_260"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Chillwind_Yeti_(Core)?oldid=451201",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Illusory_Greenwing?oldid=839795"
+  },
+  {
+    "pair_id": "P055",
+    "baseline_card_ids": [
+      "CORE_CS2_182"
+    ],
+    "candidate_card_ids": [
+      "AV_127"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Chillwind_Yeti_(Core)?oldid=451201",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Ice_Revenant?oldid=11554"
+  },
+  {
+    "pair_id": "P056",
+    "baseline_card_ids": [
+      "CORE_CS2_182"
+    ],
+    "candidate_card_ids": [
+      "ONY_002"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Chillwind_Yeti_(Core)?oldid=451201",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Gear_Grubber?oldid=137982"
+  },
+  {
+    "pair_id": "P057",
+    "baseline_card_ids": [
+      "CORE_CS2_182"
+    ],
+    "candidate_card_ids": [
+      "CFM_665"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Chillwind_Yeti_(Core)?oldid=451201",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Worgen_Greaser?oldid=816628"
+  },
+  {
+    "pair_id": "P058",
+    "baseline_card_ids": [
+      "CORE_CS2_182"
+    ],
+    "candidate_card_ids": [
+      "TTN_715"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Chillwind_Yeti_(Core)?oldid=451201",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Time-Lost_Protodrake?oldid=827279"
+  },
+  {
+    "pair_id": "P059",
+    "baseline_card_ids": [
+      "CORE_CS2_182"
+    ],
+    "candidate_card_ids": [
+      "CORE_REV_901"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Chillwind_Yeti_(Core)?oldid=451201",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Dispossessed_Soul_(Core)?oldid=818899"
+  },
+  {
+    "pair_id": "P060",
+    "baseline_card_ids": [
+      "CORE_CS2_179"
+    ],
+    "candidate_card_ids": [
+      "DMF_532"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Sen%27jin_Shieldmasta_(Core)",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Circus_Amalgam?oldid=365773"
+  },
+  {
+    "pair_id": "P061",
+    "baseline_card_ids": [
+      "GVG_071"
+    ],
+    "candidate_card_ids": [
+      "TID_744"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Lost_Tallstrider?oldid=767114",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Coilfang_Constrictor?oldid=904901"
+  },
+  {
+    "pair_id": "P062",
+    "baseline_card_ids": [
+      "CS2_186"
+    ],
+    "candidate_card_ids": [
+      "TIME_004"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 400,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/War_Golem?oldid=233593",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Conflux_Crasher?oldid=870927"
+  },
+  {
+    "pair_id": "P063",
+    "baseline_card_ids": [
+      "GVG_071"
+    ],
+    "candidate_card_ids": [
+      "TLC_250"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Lost_Tallstrider?oldid=767114",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Crater_Gator?oldid=900816"
+  },
+  {
+    "pair_id": "P064",
+    "baseline_card_ids": [
+      "CS1_069"
+    ],
+    "candidate_card_ids": [
+      "OG_321"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 400,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Fen_Creeper?oldid=887709",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Crazed_Worshipper?oldid=810464"
+  },
+  {
+    "pair_id": "P065",
+    "baseline_card_ids": [
+      "CORE_CS2_179"
+    ],
+    "candidate_card_ids": [
+      "OG_321"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 400,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Sen%27jin_Shieldmasta_(Core)",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Crazed_Worshipper?oldid=810464"
+  },
+  {
+    "pair_id": "P066",
+    "baseline_card_ids": [
+      "CS2_121"
+    ],
+    "candidate_card_ids": [
+      "GDB_130"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Frostwolf_Grunt?oldid=791020",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Crystal_Welder?oldid=819276"
+  },
+  {
+    "pair_id": "P067",
+    "baseline_card_ids": [
+      "EX1_020"
+    ],
+    "candidate_card_ids": [
+      "DMF_073"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Scarlet_Crusader?oldid=145664",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Darkmoon_Dirigible?oldid=436018"
+  },
+  {
+    "pair_id": "P068",
+    "baseline_card_ids": [
+      "OG_327"
+    ],
+    "candidate_card_ids": [
+      "BAR_026"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Squirming_Tentacle?oldid=922315",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Death%27s_Head_Cultist"
+  },
+  {
+    "pair_id": "P069",
+    "baseline_card_ids": [
+      "EX1_020"
+    ],
+    "candidate_card_ids": [
+      "GDB_101"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Scarlet_Crusader?oldid=145664",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Dimensional_Core?oldid=819103"
+  },
+  {
+    "pair_id": "P070",
+    "baseline_card_ids": [
+      "CS2_141"
+    ],
+    "candidate_card_ids": [
+      "OG_162"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Ironforge_Rifleman?oldid=791016",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Disciple_of_C%27Thun"
+  },
+  {
+    "pair_id": "P071",
+    "baseline_card_ids": [
+      "CORE_CS2_189"
+    ],
+    "candidate_card_ids": [
+      "SCH_248"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Elven_Archer_(Core)?oldid=888976",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Pen_Flinger?oldid=794510"
+  },
+  {
+    "pair_id": "P072",
+    "baseline_card_ids": [
+      "CS2_121"
+    ],
+    "candidate_card_ids": [
+      "SW_306"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Frostwolf_Grunt?oldid=791020",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Encumbered_Pack_Mule?oldid=340950"
+  },
+  {
+    "pair_id": "P073",
+    "baseline_card_ids": [
+      "CORE_CS2_120"
+    ],
+    "candidate_card_ids": [
+      "SW_306"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/River_Crocolisk_(Core)?oldid=474269",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Encumbered_Pack_Mule?oldid=340950"
+  },
+  {
+    "pair_id": "P074",
+    "baseline_card_ids": [
+      "CATA_EVENT_401"
+    ],
+    "candidate_card_ids": [
+      "GDB_310"
+    ],
+    "status": "UNRESOLVED",
+    "reason": "Unresolved card-level acquisition evidence",
+    "baseline_status": "REGULAR_UNCRAFTABLE_RECOVERY_UNRESOLVED",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": null,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Tunneling_Geomancer?oldid=922422",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Ethereal_Oracle?oldid=826038"
+  },
+  {
+    "pair_id": "P075",
+    "baseline_card_ids": [
+      "CS2_186"
+    ],
+    "candidate_card_ids": [
+      "DRG_310"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/War_Golem?oldid=233593",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Evasive_Drakonid?oldid=908778"
+  },
+  {
+    "pair_id": "P076",
+    "baseline_card_ids": [
+      "OG_082"
+    ],
+    "candidate_card_ids": [
+      "SW_061"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Evolved_Kobold?oldid=922352",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Guild_Trader?oldid=10681"
+  },
+  {
+    "pair_id": "P077",
+    "baseline_card_ids": [
+      "OG_141"
+    ],
+    "candidate_card_ids": [
+      "ULD_193"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Faceless_Behemoth?oldid=810448",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Living_Monument?oldid=863842"
+  },
+  {
+    "pair_id": "P078",
+    "baseline_card_ids": [
+      "ULD_189"
+    ],
+    "candidate_card_ids": [
+      "TIME_720"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Faceless_Lurker?oldid=863836",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Soldier_of_the_Bronze?oldid=891036"
+  },
+  {
+    "pair_id": "P079",
+    "baseline_card_ids": [
+      "CFM_665"
+    ],
+    "candidate_card_ids": [
+      "TIME_040"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Worgen_Greaser?oldid=816628",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Fading_Memory?oldid=874990"
+  },
+  {
+    "pair_id": "P080",
+    "baseline_card_ids": [
+      "CFM_666"
+    ],
+    "candidate_card_ids": [
+      "DMF_190"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Grook_Fu_Master?oldid=816629",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Fantastic_Firebird?oldid=905489"
+  },
+  {
+    "pair_id": "P081",
+    "baseline_card_ids": [
+      "CS1_069"
+    ],
+    "candidate_card_ids": [
+      "CORE_GIL_667"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Fen_Creeper?oldid=887709",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Rotten_Applebaum_(Core)?oldid=598363"
+  },
+  {
+    "pair_id": "P082",
+    "baseline_card_ids": [
+      "CS1_069"
+    ],
+    "candidate_card_ids": [
+      "BAR_021"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Fen_Creeper?oldid=887709",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Gold_Road_Grunt?oldid=779190"
+  },
+  {
+    "pair_id": "P083",
+    "baseline_card_ids": [
+      "CS1_069"
+    ],
+    "candidate_card_ids": [
+      "FP1_012"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Fen_Creeper?oldid=887709",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Sludge_Belcher?oldid=754771"
+  },
+  {
+    "pair_id": "P084",
+    "baseline_card_ids": [
+      "OG_327"
+    ],
+    "candidate_card_ids": [
+      "ETC_542"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Squirming_Tentacle?oldid=922315",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Festival_Security?oldid=381943"
+  },
+  {
+    "pair_id": "P085",
+    "baseline_card_ids": [
+      "EX1_023"
+    ],
+    "candidate_card_ids": [
+      "EDR_800"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Silvermoon_Guardian?oldid=778618",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Flutterwing_Guardian?oldid=908742"
+  },
+  {
+    "pair_id": "P086",
+    "baseline_card_ids": [
+      "CS2_121"
+    ],
+    "candidate_card_ids": [
+      "CORE_REV_956"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Frostwolf_Grunt?oldid=791020",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Priest_of_the_Deceased_(Core)?oldid=818928"
+  },
+  {
+    "pair_id": "P087",
+    "baseline_card_ids": [
+      "CS2_121"
+    ],
+    "candidate_card_ids": [
+      "KAR_011"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Frostwolf_Grunt?oldid=791020",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Pompous_Thespian?oldid=859784"
+  },
+  {
+    "pair_id": "P088",
+    "baseline_card_ids": [
+      "CS2_121"
+    ],
+    "candidate_card_ids": [
+      "BAR_743"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Frostwolf_Grunt?oldid=791020",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Toad_of_the_Wilds?oldid=176923"
+  },
+  {
+    "pair_id": "P089",
+    "baseline_card_ids": [
+      "OG_247"
+    ],
+    "candidate_card_ids": [
+      "AV_238"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Twisted_Worgen?oldid=922398",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Gankster?oldid=779375"
+  },
+  {
+    "pair_id": "P090",
+    "baseline_card_ids": [
+      "CORE_CS2_179"
+    ],
+    "candidate_card_ids": [
+      "ONY_002"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Sen%27jin_Shieldmasta_(Core)",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Gear_Grubber?oldid=137982"
+  },
+  {
+    "pair_id": "P091",
+    "baseline_card_ids": [
+      "GVG_071"
+    ],
+    "candidate_card_ids": [
+      "UNG_089"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 400,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Lost_Tallstrider?oldid=767114",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Gentle_Megasaur?oldid=816917"
+  },
+  {
+    "pair_id": "P092",
+    "baseline_card_ids": [
+      "UNG_071"
+    ],
+    "candidate_card_ids": [
+      "EDR_978"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Giant_Mastodon?oldid=816901",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Meadowstrider?oldid=839985"
+  },
+  {
+    "pair_id": "P093",
+    "baseline_card_ids": [
+      "CORE_CS2_120"
+    ],
+    "candidate_card_ids": [
+      "UNG_807"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/River_Crocolisk_(Core)?oldid=474269",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Golakka_Crawler?oldid=816903"
+  },
+  {
+    "pair_id": "P094",
+    "baseline_card_ids": [
+      "CORE_GVG_044"
+    ],
+    "candidate_card_ids": [
+      "CORE_LOE_039"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Spider_Tank_(Core)?oldid=461018",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Gorillabot_A-3_(Core)?oldid=889008"
+  },
+  {
+    "pair_id": "P095",
+    "baseline_card_ids": [
+      "EX1_033"
+    ],
+    "candidate_card_ids": [
+      "DRG_061"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Windfury_Harpy?oldid=107568",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Gyrocopter?oldid=908777"
+  },
+  {
+    "pair_id": "P096",
+    "baseline_card_ids": [
+      "UNG_810"
+    ],
+    "candidate_card_ids": [
+      "DRG_065"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Stegodon?oldid=904000",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Hippogryph?oldid=908768"
+  },
+  {
+    "pair_id": "P097",
+    "baseline_card_ids": [
+      "CS2_118"
+    ],
+    "candidate_card_ids": [
+      "AT_092"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Magma_Rager?oldid=909117",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Ice_Rager?oldid=805611"
+  },
+  {
+    "pair_id": "P098",
+    "baseline_card_ids": [
+      "CORE_CS2_179"
+    ],
+    "candidate_card_ids": [
+      "EDR_260"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Sen%27jin_Shieldmasta_(Core)",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Illusory_Greenwing?oldid=839795"
+  },
+  {
+    "pair_id": "P099",
+    "baseline_card_ids": [
+      "CORE_CS2_142"
+    ],
+    "candidate_card_ids": [
+      "TSC_053"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Kobold_Geomancer_(Core)?oldid=840959",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Rainbow_Glowscale?oldid=772485"
+  },
+  {
+    "pair_id": "P100",
+    "baseline_card_ids": [
+      "BOT_535"
+    ],
+    "candidate_card_ids": [
+      "TIME_059"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Microtech_Controller?oldid=833802",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Living_Paradox?oldid=871032"
+  },
+  {
+    "pair_id": "P101",
+    "baseline_card_ids": [
+      "CS2_162"
+    ],
+    "candidate_card_ids": [
+      "TIME_035"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Lord_of_the_Arena?oldid=568808",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Time_Machine?oldid=885309"
+  },
+  {
+    "pair_id": "P102",
+    "baseline_card_ids": [
+      "GVG_064"
+    ],
+    "candidate_card_ids": [
+      "BAR_062"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Puddlestomper?oldid=767099",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Lushwater_Murcenary?oldid=607826"
+  },
+  {
+    "pair_id": "P103",
+    "baseline_card_ids": [
+      "CS2_118"
+    ],
+    "candidate_card_ids": [
+      "DMF_044"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Magma_Rager?oldid=909117",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Rock_Rager?oldid=22335"
+  },
+  {
+    "pair_id": "P104",
+    "baseline_card_ids": [
+      "CORE_CS2_120"
+    ],
+    "candidate_card_ids": [
+      "SCH_283"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/River_Crocolisk_(Core)?oldid=474269",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Manafeeder_Panthara?oldid=899811"
+  },
+  {
+    "pair_id": "P105",
+    "baseline_card_ids": [
+      "CORE_CS2_120"
+    ],
+    "candidate_card_ids": [
+      "BAR_024"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/River_Crocolisk_(Core)?oldid=474269",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Oasis_Thrasher?oldid=900814"
+  },
+  {
+    "pair_id": "P106",
+    "baseline_card_ids": [
+      "CORE_CS2_120"
+    ],
+    "candidate_card_ids": [
+      "ETC_350"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/River_Crocolisk_(Core)?oldid=474269",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Party_Animal?oldid=900682"
+  },
+  {
+    "pair_id": "P107",
+    "baseline_card_ids": [
+      "OG_327"
+    ],
+    "candidate_card_ids": [
+      "GDB_343"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Squirming_Tentacle?oldid=922315",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Perplexing_Anomaly?oldid=819105"
+  },
+  {
+    "pair_id": "P108",
+    "baseline_card_ids": [
+      "OG_327"
+    ],
+    "candidate_card_ids": [
+      "GIL_207"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Squirming_Tentacle?oldid=922315",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Phantom_Militia?oldid=831533"
+  },
+  {
+    "pair_id": "P109",
+    "baseline_card_ids": [
+      "AT_101"
+    ],
+    "candidate_card_ids": [
+      "BAR_020"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Pit_Fighter?oldid=805622",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Razormane_Raider?oldid=378194"
+  },
+  {
+    "pair_id": "P110",
+    "baseline_card_ids": [
+      "CORE_CS2_120"
+    ],
+    "candidate_card_ids": [
+      "CORE_LOOT_413"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/River_Crocolisk_(Core)?oldid=474269",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Plated_Beetle_(Core)?oldid=889010"
+  },
+  {
+    "pair_id": "P111",
+    "baseline_card_ids": [
+      "GVG_064"
+    ],
+    "candidate_card_ids": [
+      "UNG_937"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Puddlestomper?oldid=767099",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Primalfin_Lookout?oldid=816884"
+  },
+  {
+    "pair_id": "P112",
+    "baseline_card_ids": [
+      "CATA_EVENT_401"
+    ],
+    "candidate_card_ids": [
+      "TSC_053"
+    ],
+    "status": "UNRESOLVED",
+    "reason": "Unresolved card-level acquisition evidence",
+    "baseline_status": "REGULAR_UNCRAFTABLE_RECOVERY_UNRESOLVED",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": null,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Tunneling_Geomancer?oldid=922422",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Rainbow_Glowscale?oldid=772485"
+  },
+  {
+    "pair_id": "P113",
+    "baseline_card_ids": [
+      "EX1_048"
+    ],
+    "candidate_card_ids": [
+      "CORE_SW_066"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Spellbreaker?oldid=791018",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Royal_Librarian_(Core)?oldid=889020"
+  },
+  {
+    "pair_id": "P114",
+    "baseline_card_ids": [
+      "CORE_CS2_179"
+    ],
+    "candidate_card_ids": [
+      "TTN_711"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Sen%27jin_Shieldmasta_(Core)",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Saronite_Tol%27vir"
+  },
+  {
+    "pair_id": "P115",
+    "baseline_card_ids": [
+      "EX1_020"
+    ],
+    "candidate_card_ids": [
+      "TIME_056"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Scarlet_Crusader?oldid=145664",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Whelp_of_the_Bronze?oldid=907180"
+  },
+  {
+    "pair_id": "P116",
+    "baseline_card_ids": [
+      "CORE_CS2_179"
+    ],
+    "candidate_card_ids": [
+      "TTN_715"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Sen%27jin_Shieldmasta_(Core)",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Time-Lost_Protodrake?oldid=827279"
+  },
+  {
+    "pair_id": "P117",
+    "baseline_card_ids": [
+      "OG_327"
+    ],
+    "candidate_card_ids": [
+      "RLK_518"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Squirming_Tentacle?oldid=922315",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Silvermoon_Sentinel?oldid=485924"
+  },
+  {
+    "pair_id": "P118",
+    "baseline_card_ids": [
+      "OG_247"
+    ],
+    "candidate_card_ids": [
+      "SCH_708"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Twisted_Worgen?oldid=922398",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Sneaky_Delinquent?oldid=540759"
+  },
+  {
+    "pair_id": "P119",
+    "baseline_card_ids": [
+      "OG_247"
+    ],
+    "candidate_card_ids": [
+      "AV_123"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Twisted_Worgen?oldid=922398",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Sneaky_Scout?oldid=794526"
+  },
+  {
+    "pair_id": "P120",
+    "baseline_card_ids": [
+      "CS2_186"
+    ],
+    "candidate_card_ids": [
+      "CORE_CS2_222"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/War_Golem?oldid=233593",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Stormwind_Champion_(Core)?oldid=888977"
+  },
+  {
+    "pair_id": "P121",
+    "baseline_card_ids": [
+      "EX1_390"
+    ],
+    "candidate_card_ids": [
+      "TLC_101"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Tauren_Warrior?oldid=891373",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Undercover_Cultist?oldid=859782"
+  },
+  {
+    "pair_id": "P122",
+    "baseline_card_ids": [
+      "ULD_728"
+    ],
+    "candidate_card_ids": [
+      "CORE_ICC_039"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Subdue?oldid=864057",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Dark_Conviction_(Core)?oldid=879349"
+  },
+  {
+    "pair_id": "P123",
+    "baseline_card_ids": [
+      "OG_223"
+    ],
+    "candidate_card_ids": [
+      "DRG_233"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Divine_Strength?oldid=810823",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Sand_Breath?oldid=908861"
+  },
+  {
+    "pair_id": "P124",
+    "baseline_card_ids": [
+      "EX1_184"
+    ],
+    "candidate_card_ids": [
+      "CATA_479"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 400,
+    "baseline_recovery": 20,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Righteousness?oldid=459262",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Flight_Maneuvers?oldid=890523"
+  },
+  {
+    "pair_id": "P125",
+    "baseline_card_ids": [
+      "MEND_900"
+    ],
+    "candidate_card_ids": [
+      "CORE_OG_273"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 20,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Teamwork?oldid=908261",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Stand_Against_Darkness_(Core)?oldid=786491"
+  },
+  {
+    "pair_id": "P126",
+    "baseline_card_ids": [
+      "CORE_ICC_212"
+    ],
+    "candidate_card_ids": [
+      "CATA_304"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Acolyte_of_Agony_(Core)?oldid=879326",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Injured_Attendant?oldid=913305"
+  },
+  {
+    "pair_id": "P127",
+    "baseline_card_ids": [
+      "EX1_192"
+    ],
+    "candidate_card_ids": [
+      "UNG_030"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_UNCRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Radiance?oldid=909123",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Binding_Heal?oldid=899403"
+  },
+  {
+    "pair_id": "P128",
+    "baseline_card_ids": [
+      "AT_015"
+    ],
+    "candidate_card_ids": [
+      "TRL_097"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 20,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Convert?oldid=805862",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Seance?oldid=837352"
+  },
+  {
+    "pair_id": "P129",
+    "baseline_card_ids": [
+      "VAC_404"
+    ],
+    "candidate_card_ids": [
+      "CORE_CS1_130"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 20,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Nightshade_Tea?oldid=805774",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Holy_Smite_(Core)?oldid=889052"
+  },
+  {
+    "pair_id": "P130",
+    "baseline_card_ids": [
+      "TRL_097"
+    ],
+    "candidate_card_ids": [
+      "ETC_338"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Seance?oldid=837352",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Power_Chord:_Synchronize?oldid=125013"
+  },
+  {
+    "pair_id": "P131",
+    "baseline_card_ids": [
+      "OG_094"
+    ],
+    "candidate_card_ids": [
+      "CORE_EX1_194"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Power_Word:_Tentacles?oldid=922322",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Power_Infusion_(Core)?oldid=278704"
+  },
+  {
+    "pair_id": "P132",
+    "baseline_card_ids": [
+      "BT_253"
+    ],
+    "candidate_card_ids": [
+      "CATA_306"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 20,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Psyche_Split?oldid=926355",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Schism?oldid=921827"
+  },
+  {
+    "pair_id": "P133",
+    "baseline_card_ids": [
+      "CORE_CS2_234"
+    ],
+    "candidate_card_ids": [
+      "EDR_463"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Shadow_Word:_Pain_(Core)?oldid=783387",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Twilight_Influence?oldid=841359"
+  },
+  {
+    "pair_id": "P136",
+    "baseline_card_ids": [
+      "EX1_182"
+    ],
+    "candidate_card_ids": [
+      "UNG_856"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Pilfer?oldid=867834",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Spore_Hallucination?oldid=841727"
+  },
+  {
+    "pair_id": "P137",
+    "baseline_card_ids": [
+      "EX1_182"
+    ],
+    "candidate_card_ids": [
+      "UNG_856"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Pilfer?oldid=867834",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Spore_Hallucination?oldid=841727"
+  },
+  {
+    "pair_id": "P138",
+    "baseline_card_ids": [
+      "ETC_356"
+    ],
+    "candidate_card_ids": [
+      "CORE_UNG_817"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 20,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Altered_Chord?oldid=64158",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Tidal_Surge_(Core)?oldid=341222"
+  },
+  {
+    "pair_id": "P139",
+    "baseline_card_ids": [
+      "CORE_UNG_817"
+    ],
+    "candidate_card_ids": [
+      "WW_325"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Tidal_Surge_(Core)?oldid=341222",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Dehydrate?oldid=762931"
+  },
+  {
+    "pair_id": "P140",
+    "baseline_card_ids": [
+      "CORE_UNG_817"
+    ],
+    "candidate_card_ids": [
+      "WW_325"
+    ],
+    "status": "BASELINE_CORE_RESERVE",
+    "reason": "Retained baseline is a reserve Core version; owned-baseline scenario not established",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Tidal_Surge_(Core)?oldid=341222",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Dehydrate?oldid=762931"
+  },
+  {
+    "pair_id": "P141",
+    "baseline_card_ids": [
+      "BT_110"
+    ],
+    "candidate_card_ids": [
+      "DEEP_009"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 20,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Torrent?oldid=926378",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Digging_Straight_Down?oldid=862846"
+  },
+  {
+    "pair_id": "P142",
+    "baseline_card_ids": [
+      "VAC_323"
+    ],
+    "candidate_card_ids": [
+      "YOP_023"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Malted_Magma?oldid=801546",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Landslide?oldid=106495"
+  },
+  {
+    "pair_id": "P143",
+    "baseline_card_ids": [
+      "VAC_323"
+    ],
+    "candidate_card_ids": [
+      "CORE_KAR_073"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Malted_Magma?oldid=801546",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Maelstrom_Portal_(Core)?oldid=574418"
+  },
+  {
+    "pair_id": "P144",
+    "baseline_card_ids": [
+      "VAC_951"
+    ],
+    "candidate_card_ids": [
+      "CORE_ICC_055"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 20,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/%22Health%22_Drink",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Drain_Soul_(Core)?oldid=889094"
+  },
+  {
+    "pair_id": "P145",
+    "baseline_card_ids": [
+      "EX1_181"
+    ],
+    "candidate_card_ids": [
+      "GDB_123"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Call_of_the_Void?oldid=1757",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Abduction_Ray?oldid=891008"
+  },
+  {
+    "pair_id": "P146",
+    "baseline_card_ids": [
+      "CORE_EX1_312"
+    ],
+    "candidate_card_ids": [
+      "JAIL_510"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Twisting_Nether_(Core)?oldid=889091",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Annihilation?oldid=912674"
+  },
+  {
+    "pair_id": "P147",
+    "baseline_card_ids": [
+      "EX1_181"
+    ],
+    "candidate_card_ids": [
+      "CORE_SCH_158"
+    ],
+    "status": "CANDIDATE_NOT_CRAFTABLE",
+    "reason": "Exact candidate version has no ordinary crafting route",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_craft": null,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Call_of_the_Void?oldid=1757",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Demonic_Studies_(Core)?oldid=841079"
+  },
+  {
+    "pair_id": "P148",
+    "baseline_card_ids": [
+      "CORE_CS2_108"
+    ],
+    "candidate_card_ids": [
+      "WW_380"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "CORE_OR_RESERVE_NO_DUST",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 0,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Execute_(Core)?oldid=889102",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Blast_Charge?oldid=906658"
+  },
+  {
+    "pair_id": "P149",
+    "baseline_card_ids": [
+      "TRL_321"
+    ],
+    "candidate_card_ids": [
+      "CATA_585"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Devastate?oldid=837400",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Torch?oldid=892793"
+  },
+  {
+    "pair_id": "P150",
+    "baseline_card_ids": [
+      "CFM_940"
+    ],
+    "candidate_card_ids": [
+      "NX2_029"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 100,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/I_Know_a_Guy?oldid=816789",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Training_Session?oldid=766698"
+  },
+  {
+    "pair_id": "P151",
+    "baseline_card_ids": [
+      "CS1_069"
+    ],
+    "candidate_card_ids": [
+      "END_019"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Fen_Creeper?oldid=887709",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Endtime_Survivor?oldid=886604"
+  },
+  {
+    "pair_id": "P152",
+    "baseline_card_ids": [
+      "AT_101"
+    ],
+    "candidate_card_ids": [
+      "END_019"
+    ],
+    "status": "VERIFIED_ORDINARY_RULES",
+    "reason": "Availability verified from matching wiki card IDs; historical holdings not reconstructed",
+    "baseline_status": "REGULAR_CRAFTABLE",
+    "candidate_status": "REGULAR_CRAFTABLE",
+    "candidate_craft": 40,
+    "baseline_recovery": 5,
+    "baseline_source": "https://hearthstone.wiki.gg/wiki/Pit_Fighter?oldid=805622",
+    "candidate_source": "https://hearthstone.wiki.gg/wiki/Endtime_Survivor?oldid=886604"
+  }
+]

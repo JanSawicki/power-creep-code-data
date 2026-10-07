@@ -1,0 +1,8 @@
+duckdb
+lxml
+matplotlib
+Pillow
+python-docx
+requests
+tqdm
+beautifulsoup4

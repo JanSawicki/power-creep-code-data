@@ -1,0 +1,93 @@
+{
+  "prepared": "2026-10-07",
+  "files": {
+    "data/powercreep.duckdb": "7eb170521e1ad31f83ac4054260784a4e4e09345db797adceaa66264abe9e813",
+    "data/powercreep_results.jsonl": "e64d58c393e53814c066545ed74c6d8dc13fe365a1bc076bf1cc9466c99ae155",
+    "data/powercreep_results_reviewed.jsonl": "874bf3c91ecbb0774cb2be1c40385dfbc1ff036383b4b56d320732e1873be197",
+    "data/excluded_comparisons.json": "e294679a8a2746f9dc3f575ecd9033ace97f2dbc4573aff0f97e35f923d20a94",
+    "scripts/review_results.py": "feff3447fc4a42bdea0f11275d16c5a9dbf8c3501d3aab4f1084c10954bddf62",
+    "scripts/reconstruct_paper_cases.py": "b8bd2380616129c4e5d779188c3c542c5cbcdf0b347b09ba875452f194c926e4",
+    "scripts/build_paper_latex.py": "e5592d6225fac5094bd93e10c2f6d6202208f211308f5e4be6f6d8de2e906143",
+    "scripts/analysis.py": "805c8d29f005d310cbcb9dc391342ff61d5564cc1bcf44ae3354e707171dffc1",
+    "scripts/vllm_endpoint.py": "4c13abf63863edff48ae7cceffa89b1359b44a16731026e00f020d32d5b6f9cb",
+    "scripts/recompute_human_review.py": "5a7035fd26bd4bb98b6d216e8a4694117f017ef19b44b6439872820d4934d989",
+    "scripts/build_paper_package.py": "69dbbfe983a9d953dcc4d35b0f1016071e4d99b0bccfaabe8da892179fe70e2b",
+    "scripts/compare_pairs.py": "a6e9430da1cabf6060573075fb7afeb581e3fdf13a29e35cb0fa5d654ad974eb",
+    "scripts/detect.py": "6f0ca93ce8bec1c499ac383a693528bd75a6a76725a6bc6647e26f451f6fc3af",
+    "scripts/human_pair_review.py": "6c9c7324af5f1b2df9ce75b38f4a793af48b569833718167a2fa2c2d22d4b764",
+    "scripts/download_paper_card_images.py": "de17af437f5a87fcfcbae5874ea0ed57de31c573865132700804b44e9e0760f1",
+    "scripts/prepare_paper_evidence.py": "adc39a79fa49edc9500823226d9b9072a9fe39c58f574b2584ca4f9fea118c38",
+    "scripts/ingest_hsdata.py": "d0bc403ca07f7c33c9f89d585f9ac85349bf1fff6729916454974a1e4d983ab4",
+    "prompts/power_creep_detection.md": "d71eaa81f5fa3a81b9e8ef8a0fba2222ff2ebd1ad3914967a2f026f68c0c9448",
+    "logs/detect.log": "711929b61da222133a8708aedeb71a6bdede7459dcb780f9c6e4126d3848382c",
+    "logs/ingest.log": "566e5028ead419b0bc1aff340062287f9f20eaefb569d8980f80da9b44872e40",
+    "logs/test_llm_judge.log": "7d547ee4e299053b422d84be05e111affdcb9d42bbbc13719219efd26de00a61",
+    "scripts/audit_acquisition_eligibility.py": "4a7439dd1d6ed724a0dbfdee91bbc51698c5a37fa68bfda554b82ee28dcdb7f3"
+  },
+  "hsdata_current_checkout": "bc742d57e0b057326b8cbf74fdf5f995310720f3",
+  "source_revision_at_ingestion": "NOT_RECORDED; current checkout is a recovery candidate, not a verified run-time revision",
+  "script_versions_at_run": "NOT_ARCHIVED; hashes describe current files",
+  "run_dates": "2026-10-02 12:26:16 to 2026-10-03 07:46:41 CEST (detect.log)",
+  "model": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
+  "mana_window": 2,
+  "workers": 32,
+  "temperature_current_code": 0,
+  "max_tokens_current_code": [
+    1024,
+    1536
+  ],
+  "model_weights_revision": "NOT_RECORDED",
+  "review_command_and_dates": "NOT_RECOVERED",
+  "parse_failure_counts": "NOT_RECOVERED; current detector maps exhausted JSON retries to NEGATIVE; reviewer treats failures as NO",
+  "retained_records_are_unchanged_initial_subset": true,
+  "manual_curation": "NOT_ESTABLISHED",
+  "candidate_SQL": "SELECT count(*) FROM cards a JOIN cards b ON b.type=a.type\n AND b.class = COALESCE(a.class, 'NEUTRAL')\n AND ((a.rarity='LEGENDARY')=(b.rarity='LEGENDARY'))\n AND ABS(COALESCE(b.mana,0)-COALESCE(a.mana,0))<=2\n AND \n(\n    (\n        b.mana IS NOT NULL AND a.mana IS NOT NULL\n        AND b.mana <= a.mana\n        AND (\n            a.type NOT IN ('MINION', 'WEAPON', 'HERO')\n            OR (\n                b.attack IS NOT NULL AND a.attack IS NOT NULL\n                AND b.health IS NOT NULL AND a.health IS NOT NULL\n                AND b.attack >= a.attack AND b.health >= a.health\n            )\n        )\n    )\n    OR\n    (\n        b.mana IS NOT NULL AND a.mana IS NOT NULL\n        AND a.mana <= b.mana\n        AND (\n            a.type NOT IN ('MINION', 'WEAPON', 'HERO')\n            OR (\n                b.attack IS NOT NULL AND a.attack IS NOT NULL\n                AND b.health IS NOT NULL AND a.health IS NOT NULL\n                AND a.attack >= b.attack AND a.health >= b.health\n            )\n        )\n    )\n)\n AND \n(\n    a.tribe IS NULL OR b.tribe IS NULL\n    OR a.tribe = b.tribe\n    OR a.tribe = 'ALL' OR b.tribe = 'ALL'\n)\n\n AND (b.name>a.name OR (b.name=a.name AND b.patch_id>a.patch_id))",
+  "reproduction_command": ".venv/bin/python scripts/prepare_paper_evidence.py",
+  "incomplete_effect_exclusions": "Final datasets exclude seven relationships; exclusion record in frozen_data/excluded_comparisons.json. No hard-coded comparison filter.",
+  "author_revision_october_6": {
+    "detection_rerun": false,
+    "historical_prompt_changed": false,
+    "decision_correction": "P020 NO to YES, append-only",
+    "interpretation": "human_review/author-interpretation.md",
+    "current_recompute_script_sha256": "7ed680751d6d2da976cb5a67991bea9878716bede3393563c6c9cd855edd835e"
+  },
+  "rager_card_images": {
+    "source": "wiki.gg original PNGs",
+    "files": [
+      "figures/cards/magma_rager.png",
+      "figures/cards/ice_rager.png"
+    ],
+    "image_manifest": "card_image_sources.json",
+    "date": "2026-10-06"
+  },
+  "author_revision_october_7": {
+    "criterion": "qualitative ordinary-use improvement restored",
+    "P127": "YES; temporary NO and reversal preserved in append-only history",
+    "new_full_reassessment_completed": false,
+    "reviewer_experience": "Hearthstone expert reviewer, identity unspecified: since release, breaks over more than ten years, over 2,000 hours; not independently verified",
+    "card_images": [
+      "figures/cards/mind_control.png",
+      "figures/cards/hemet_nesingwary.png"
+    ],
+    "image_manifest": "card_image_sources.json",
+    "current_recompute_script_sha256": "5a7035fd26bd4bb98b6d216e8a4694117f017ef19b44b6439872820d4934d989"
+  },
+  "acquisition_audit": {
+    "summary": "acquisition_audit/summary.json",
+    "source": "local hsdata history, then matching wiki.gg card pages",
+    "unique_states": 220,
+    "pairs": 145,
+    "accepted_cost_pairs_verified": 89,
+    "accepted_exclusions": {
+      "reserve_core_baseline": 18,
+      "candidate_not_craftable": 10
+    },
+    "audited_detector_cost_pairs": 102,
+    "frozen_detector_cost_pairs": 102,
+    "historical_transactions_verified": false,
+    "unresolved_rejected_pairs": [
+      "P074",
+      "P112"
+    ]
+  }
+}

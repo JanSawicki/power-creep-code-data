@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-06",
+  "reason": "Missing upgrade conditions in detector and human-review effect text; excluded from all comparison analyses by author instruction.",
+  "matching": "Directed identity (name, set, class, type), across all retained versions; stable pair IDs preserved.",
+  "excluded_comparisons": [
+    {
+      "pair_id": "P004",
+      "baseline": {
+        "name": "Lesser Jasper Spellstone",
+        "card_set": "Core Hidden",
+        "class": "DRUID",
+        "type": "SPELL"
+      },
+      "candidate": {
+        "name": "Crystal Power",
+        "card_set": "Rise of Shadows",
+        "class": "DRUID",
+        "type": "SPELL"
+      }
+    },
+    {
+      "pair_id": "P011",
+      "baseline": {
+        "name": "Lesser Jasper Spellstone",
+        "card_set": "Core Hidden",
+        "class": "DRUID",
+        "type": "SPELL"
+      },
+      "candidate": {
+        "name": "Living Roots",
+        "card_set": "The Grand Tournament",
+        "class": "DRUID",
+        "type": "SPELL"
+      }
+    },
+    {
+      "pair_id": "P027",
+      "baseline": {
+        "name": "Lesser Ruby Spellstone",
+        "card_set": "Kobolds and Catacombs",
+        "class": "MAGE",
+        "type": "SPELL"
+      },
+      "candidate": {
+        "name": "Spark of Life",
+        "card_set": "Into the Emerald Dream",
+        "class": "MAGE",
+        "type": "SPELL"
+      }
+    },
+    {
+      "pair_id": "P028",
+      "baseline": {
+        "name": "Lesser Ruby Spellstone",
+        "card_set": "Kobolds and Catacombs",
+        "class": "MAGE",
+        "type": "SPELL"
+      },
+      "candidate": {
+        "name": "Tome of Intellect",
+        "card_set": "Legacy",
+        "class": "MAGE",
+        "type": "SPELL"
+      }
+    },
+    {
+      "pair_id": "P029",
+      "baseline": {
+        "name": "Lesser Ruby Spellstone",
+        "card_set": "Kobolds and Catacombs",
+        "class": "MAGE",
+        "type": "SPELL"
+      },
+      "candidate": {
+        "name": "Primordial Glyph",
+        "card_set": "Core Hidden",
+        "class": "MAGE",
+        "type": "SPELL"
+      }
+    },
+    {
+      "pair_id": "P134",
+      "baseline": {
+        "name": "Lesser Onyx Spellstone",
+        "card_set": "Kobolds and Catacombs",
+        "class": "ROGUE",
+        "type": "SPELL"
+      },
+      "candidate": {
+        "name": "Assassinate",
+        "card_set": "Core",
+        "class": "ROGUE",
+        "type": "SPELL"
+      }
+    },
+    {
+      "pair_id": "P135",
+      "baseline": {
+        "name": "Lesser Onyx Spellstone",
+        "card_set": "Kobolds and Catacombs",
+        "class": "ROGUE",
+        "type": "SPELL"
+      },
+      "candidate": {
+        "name": "Assassinate",
+        "card_set": "Basic",
+        "class": "ROGUE",
+        "type": "SPELL"
+      }
+    }
+  ]
+}

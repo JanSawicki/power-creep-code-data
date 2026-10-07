@@ -1,0 +1,153 @@
+# Human pair-review checklist
+
+**Reviewed: 145/145. Remaining: 0.**
+
+Checked means a decision was saved, including rejected or uncertain decisions. It does not mean confirmed improvement.
+
+Source of truth: append-only `decisions.jsonl`; latest decision per pair is current. `pairs.csv` is the frozen input.
+
+- [x] P001: Ironbark Protector → Star Grazer — **YES**
+- [x] P002: Wildwalker → Virmen Sensei — **NO**
+- [x] P003: Force of Nature → Cosmic Phenomenon — **NO**
+- [x] P005: Gift of the Wild → Drum Circle — **NO**
+- [x] P006: Lightning Bloom → Innervate — **NO**
+- [x] P007: Wild Growth → Invigorate — **YES**
+- [x] P008: Wild Growth → Invigorate — **YES**
+- [x] P009: Wild Growth → Jade Blossom — **YES**
+- [x] P010: Landscaping → Plot of Sin — **YES**
+- [x] P012: Wild Growth → New Heights — **YES**
+- [x] P013: Wild Growth → Pilfered Power — **NO**
+- [x] P014: Reforestation → Raven Idol — **NO**
+- [x] P015: Ram Wrangler → Warsong Wrangler — **NO**
+- [x] P016: Arcane Shot → Overwhelm — **NO**
+- [x] P017: Evolution Chamber → Bestial Madness — **NO**
+- [x] P018: Rapid Fire → On the Hunt — **NO**
+- [x] P019: Meteorologist → Blastmage Miner — **NO**
+- [x] P020: Snowchugger → Chill-o-matic — **YES** (author correction October 6; original NO retained in history)
+- [x] P021: Magister's Apprentice → Sorcerer's Apprentice — **YES**
+- [x] P022: Seabreeze Chalice → Arcane Missiles — **NO**
+- [x] P023: Seabreeze Chalice → Arcane Missiles — **NO**
+- [x] P024: Flame Lance → Arcane Overflow — **YES**
+- [x] P025: Flame Lance → Rolling Fireball — **YES**
+- [x] P026: Flame Lance → Sindragosa's Triumph — **YES**
+- [x] P030: Tome of Intellect → Spark of Life — **YES**
+- [x] P031: Chillwind Yeti → Activated Golem — **YES**
+- [x] P032: Arcane Servant → Amalgam of the Deep — **YES**
+- [x] P033: River Crocolisk → Amalgam of the Deep — **YES**
+- [x] P034: Sleepy Dragon → Amber Warden — **YES**
+- [x] P035: Scalerider → Amber Whelp — **YES**
+- [x] P036: Silverback Patriarch → Ancient Stegodon — **YES**
+- [x] P037: Arcane Dynamo → Ghost Writer — **NO**
+- [x] P038: Arcane Servant → Flame Revenant — **YES**
+- [x] P039: Archmage → Violet Warden — **YES**
+- [x] P040: Argent Squire → Click-Clocker — **YES**
+- [x] P041: Fen Creeper → Azsharan Sentinel — **YES**
+- [x] P042: Booty Bay Bodyguard → Azsharan Sentinel — **YES**
+- [x] P043: Frostwolf Grunt → Barkshield Sentinel — **YES**
+- [x] P044: Black Market Auctioneer → Gadgetzan Auctioneer — **NO**
+- [x] P045: Blazing Battlemage → Miracle Salesman — **YES**
+- [x] P046: Bloodfen Raptor → Huge Toad — **YES**
+- [x] P047: Frostwolf Grunt → Bonechewer Brawler — **YES**
+- [x] P048: Booty Bay Bodyguard → Evil Heckler — **YES**
+- [x] P049: Boulderfist Ogre → Package Dealer — **YES**
+- [x] P050: Squirming Tentacle → Bronze Gatekeeper — **YES**
+- [x] P051: Stormpike Commando → Burrowing Scorpid — **YES**
+- [x] P052: Silvermoon Guardian → Candleraiser — **YES**
+- [x] P053: Chillwind Yeti → Circus Amalgam — **YES**
+- [x] P054: Chillwind Yeti → Illusory Greenwing — **NO**
+- [x] P055: Chillwind Yeti → Ice Revenant — **YES**
+- [x] P056: Chillwind Yeti → Gear Grubber — **YES**
+- [x] P057: Chillwind Yeti → Worgen Greaser — **YES**
+- [x] P058: Chillwind Yeti → Time-Lost Protodrake — **YES**
+- [x] P059: Chillwind Yeti → Dispossessed Soul — **YES**
+- [x] P060: Sen'jin Shieldmasta → Circus Amalgam — **YES**
+- [x] P061: Lost Tallstrider → Coilfang Constrictor — **YES**
+- [x] P062: War Golem → Conflux Crasher — **NO**
+- [x] P063: Lost Tallstrider → Crater Gator — **YES**
+- [x] P064: Fen Creeper → Crazed Worshipper — **YES**
+- [x] P065: Sen'jin Shieldmasta → Crazed Worshipper — **YES**
+- [x] P066: Frostwolf Grunt → Crystal Welder — **YES**
+- [x] P067: Scarlet Crusader → Darkmoon Dirigible — **YES**
+- [x] P068: Squirming Tentacle → Death's Head Cultist — **YES**
+- [x] P069: Scarlet Crusader → Dimensional Core — **YES**
+- [x] P070: Ironforge Rifleman → Disciple of C'Thun — **YES**
+- [x] P071: Elven Archer → Pen Flinger — **YES**
+- [x] P072: Frostwolf Grunt → Encumbered Pack Mule — **YES**
+- [x] P073: River Crocolisk → Encumbered Pack Mule — **YES**
+- [x] P074: Tunneling Geomancer → Ethereal Oracle — **NO**
+- [x] P075: War Golem → Evasive Drakonid — **YES**
+- [x] P076: Evolved Kobold → Guild Trader — **YES**
+- [x] P077: Faceless Behemoth → Living Monument — **YES**
+- [x] P078: Faceless Lurker → Soldier of the Bronze — **YES**
+- [x] P079: Worgen Greaser → Fading Memory — **YES**
+- [x] P080: Grook Fu Master → Fantastic Firebird — **YES**
+- [x] P081: Fen Creeper → Rotten Applebaum — **YES**
+- [x] P082: Fen Creeper → Gold Road Grunt — **YES**
+- [x] P083: Fen Creeper → Sludge Belcher — **YES**
+- [x] P084: Squirming Tentacle → Festival Security — **YES**
+- [x] P085: Silvermoon Guardian → Flutterwing Guardian — **YES**
+- [x] P086: Frostwolf Grunt → Priest of the Deceased — **YES**
+- [x] P087: Frostwolf Grunt → Pompous Thespian — **YES**
+- [x] P088: Frostwolf Grunt → Toad of the Wilds — **YES**
+- [x] P089: Twisted Worgen → Gankster — **YES**
+- [x] P090: Sen'jin Shieldmasta → Gear Grubber — **YES**
+- [x] P091: Lost Tallstrider → Gentle Megasaur — **YES**
+- [x] P092: Giant Mastodon → Meadowstrider — **YES**
+- [x] P093: River Crocolisk → Golakka Crawler — **YES**
+- [x] P094: Spider Tank → Gorillabot A-3 — **YES**
+- [x] P095: Windfury Harpy → Gyrocopter — **YES**
+- [x] P096: Stegodon → Hippogryph — **YES**
+- [x] P097: Magma Rager → Ice Rager — **YES**
+- [x] P098: Sen'jin Shieldmasta → Illusory Greenwing — **YES**
+- [x] P099: Kobold Geomancer → Rainbow Glowscale — **YES**
+- [x] P100: Microtech Controller → Living Paradox — **NO**
+- [x] P101: Lord of the Arena → Time Machine — **YES**
+- [x] P102: Puddlestomper → Lushwater Murcenary — **YES**
+- [x] P103: Magma Rager → Rock Rager — **YES**
+- [x] P104: River Crocolisk → Manafeeder Panthara — **YES**
+- [x] P105: River Crocolisk → Oasis Thrasher — **YES**
+- [x] P106: River Crocolisk → Party Animal — **YES**
+- [x] P107: Squirming Tentacle → Perplexing Anomaly — **YES**
+- [x] P108: Squirming Tentacle → Phantom Militia — **YES**
+- [x] P109: Pit Fighter → Razormane Raider — **YES**
+- [x] P110: River Crocolisk → Plated Beetle — **YES**
+- [x] P111: Puddlestomper → Primalfin Lookout — **YES**
+- [x] P112: Tunneling Geomancer → Rainbow Glowscale — **NO**
+- [x] P113: Spellbreaker → Royal Librarian — **YES**
+- [x] P114: Sen'jin Shieldmasta → Saronite Tol'vir — **YES**
+- [x] P115: Scarlet Crusader → Whelp of the Bronze — **YES**
+- [x] P116: Sen'jin Shieldmasta → Time-Lost Protodrake — **YES**
+- [x] P117: Squirming Tentacle → Silvermoon Sentinel — **YES**
+- [x] P118: Twisted Worgen → Sneaky Delinquent — **YES**
+- [x] P119: Twisted Worgen → Sneaky Scout — **YES**
+- [x] P120: War Golem → Stormwind Champion — **YES**
+- [x] P121: Tauren Warrior → Undercover Cultist — **YES**
+- [x] P122: Subdue → Dark Conviction — **NO**
+- [x] P123: Divine Strength → Sand Breath — **YES**
+- [x] P124: Righteousness → Flight Maneuvers — **YES**
+- [x] P125: Teamwork → Stand Against Darkness — **NO**
+- [x] P126: Acolyte of Agony → Injured Attendant — **YES**
+- [x] P127: Radiance → Binding Heal — **YES**
+- [x] P128: Convert → Seance — **YES**
+- [x] P129: Nightshade Tea → Holy Smite — **NO**
+- [x] P130: Seance → Power Chord: Synchronize — **YES**
+- [x] P131: Power Word: Tentacles → Power Infusion — **YES**
+- [x] P132: Psyche Split → Schism — **YES**
+- [x] P133: Shadow Word: Pain → Twilight Influence — **YES**
+- [x] P136: Pilfer → Hallucination — **YES**
+- [x] P137: Pilfer → Spore Hallucination — **YES**
+- [x] P138: Altered Chord → Tidal Surge — **NO**
+- [x] P139: Tidal Surge → Dehydrate — **YES**
+- [x] P140: Tidal Surge → Dehydrate — **YES**
+- [x] P141: Torrent → Digging Straight Down — **NO**
+- [x] P142: Malted Magma → Landslide — **NO**
+- [x] P143: Malted Magma → Maelstrom Portal — **NO**
+- [x] P144: "Health" Drink → Drain Soul — **NO**
+- [x] P145: Call of the Void → Abduction Ray — **YES**
+- [x] P146: Twisting Nether → Annihilation — **YES**
+- [x] P147: Call of the Void → Demonic Studies — **YES**
+- [x] P148: Execute → Blast Charge — **YES**
+- [x] P149: Devastate → Torch — **YES**
+- [x] P150: I Know a Guy → Training Session — **YES**
+- [x] P151: Fen Creeper → Endtime Survivor — **YES**
+- [x] P152: Pit Fighter → Endtime Survivor — **YES**

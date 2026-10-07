@@ -1,0 +1,6 @@
+quantity,n,median,mean,minimum,maximum
+nominal_price_difference,102,0.0,54.31372549019608,-300,400
+candidate_craft,102,40.0,94.70588235294117,40,400
+additional_dust,102,40.0,90.49019607843137,20,400
+net_dust,102,40.0,90.49019607843137,20,400
+surplus_dust,102,0.0,0,0,0

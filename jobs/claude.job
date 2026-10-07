@@ -1,0 +1,22 @@
+#!/bin/bash
+#SBATCH --nodes 1
+#SBATCH --cpus-per-task 1
+#SBATCH --mem=16G
+#SBATCH --gpus=0
+#SBATCH --time 05-00:00:00
+#SBATCH --job-name claude-remote
+#SBATCH --output ./logs/claude.log
+#SBATCH --open-mode=append
+#SBATCH --signal=B:TERM@300
+
+CONFIG="${POWER_CREEP_CONFIG:-${XDG_CONFIG_HOME:-$HOME/.config}/power-creep/local.env}"
+if [[ -f "$CONFIG" ]]; then source "$CONFIG"; fi
+
+# Force immediate log flushing so the connection link appears without delay
+export PYTHONUNBUFFERED=1
+echo "=== Job $SLURM_JOB_ID started at $(date) ==="
+
+# Auto-approve the "Enable Remote Control? (y/n)" prompt by piping "y"
+echo "y" | claude remote-control --name "power-creep" 2>&1 &
+CHILD_PID=$!
+wait $CHILD_PID

@@ -1,0 +1,103 @@
+pair_id,human_accepted,baseline,candidate,baseline_rarity,candidate_rarity,candidate_craft,baseline_recovery,nominal_price_difference,additional_dust,net_dust
+P001,True,Ironbark Protector,Star Grazer,FREE,RARE,100,0,100,100,100
+P002,False,Wildwalker,Virmen Sensei,COMMON,RARE,100,5,60,95,95
+P005,False,Gift of the Wild,Drum Circle,COMMON,RARE,100,5,60,95,95
+P007,True,Wild Growth,Invigorate,COMMON,RARE,100,0,60,100,100
+P009,True,Wild Growth,Jade Blossom,COMMON,COMMON,40,0,0,40,40
+P012,True,Wild Growth,New Heights,COMMON,EPIC,400,0,360,400,400
+P013,False,Wild Growth,Pilfered Power,COMMON,EPIC,400,0,360,400,400
+P015,False,Ram Wrangler,Warsong Wrangler,RARE,EPIC,400,20,300,380,380
+P016,False,Arcane Shot,Overwhelm,RARE,RARE,100,0,0,100,100
+P017,False,Evolution Chamber,Bestial Madness,COMMON,RARE,100,5,60,95,95
+P018,False,Rapid Fire,On the Hunt,COMMON,COMMON,40,5,0,35,35
+P019,False,Meteorologist,Blastmage Miner,RARE,RARE,100,20,0,80,80
+P020,True,Snowchugger,Chill-o-matic,COMMON,COMMON,40,5,0,35,35
+P021,True,Magister's Apprentice,Sorcerer's Apprentice,COMMON,COMMON,40,5,0,35,35
+P024,True,Flame Lance,Arcane Overflow,COMMON,RARE,100,5,60,95,95
+P025,True,Flame Lance,Rolling Fireball,COMMON,EPIC,400,5,360,395,395
+P026,True,Flame Lance,Sindragosa's Triumph,COMMON,RARE,100,5,60,95,95
+P030,True,Tome of Intellect,Spark of Life,COMMON,RARE,100,5,60,95,95
+P032,True,Arcane Servant,Amalgam of the Deep,COMMON,EPIC,400,5,360,395,395
+P034,True,Sleepy Dragon,Amber Warden,COMMON,EPIC,400,0,360,400,400
+P035,True,Scalerider,Amber Whelp,COMMON,COMMON,40,5,0,35,35
+P036,True,Silverback Patriarch,Ancient Stegodon,FREE,COMMON,40,0,40,40,40
+P037,False,Arcane Dynamo,Ghost Writer,RARE,COMMON,40,20,-60,20,20
+P038,True,Arcane Servant,Flame Revenant,COMMON,COMMON,40,5,0,35,35
+P039,True,Archmage,Violet Warden,FREE,COMMON,40,0,40,40,40
+P041,True,Fen Creeper,Azsharan Sentinel,COMMON,COMMON,40,5,0,35,35
+P042,True,Booty Bay Bodyguard,Azsharan Sentinel,FREE,COMMON,40,0,40,40,40
+P043,True,Frostwolf Grunt,Barkshield Sentinel,FREE,COMMON,40,0,40,40,40
+P045,True,Blazing Battlemage,Miracle Salesman,COMMON,COMMON,40,5,0,35,35
+P046,True,Bloodfen Raptor,Huge Toad,FREE,COMMON,40,0,40,40,40
+P047,True,Frostwolf Grunt,Bonechewer Brawler,FREE,COMMON,40,0,40,40,40
+P048,True,Booty Bay Bodyguard,Evil Heckler,FREE,COMMON,40,0,40,40,40
+P049,True,Boulderfist Ogre,Package Dealer,COMMON,RARE,100,0,60,100,100
+P050,True,Squirming Tentacle,Bronze Gatekeeper,COMMON,COMMON,40,5,0,35,35
+P051,True,Stormpike Commando,Burrowing Scorpid,FREE,COMMON,40,0,40,40,40
+P052,True,Silvermoon Guardian,Candleraiser,COMMON,COMMON,40,5,0,35,35
+P060,True,Sen'jin Shieldmasta,Circus Amalgam,COMMON,COMMON,40,0,0,40,40
+P061,True,Lost Tallstrider,Coilfang Constrictor,COMMON,RARE,100,5,60,95,95
+P062,False,War Golem,Conflux Crasher,FREE,EPIC,400,0,400,400,400
+P063,True,Lost Tallstrider,Crater Gator,COMMON,COMMON,40,5,0,35,35
+P064,True,Fen Creeper,Crazed Worshipper,COMMON,EPIC,400,5,360,395,395
+P065,True,Sen'jin Shieldmasta,Crazed Worshipper,COMMON,EPIC,400,0,360,400,400
+P066,True,Frostwolf Grunt,Crystal Welder,FREE,COMMON,40,0,40,40,40
+P067,True,Scarlet Crusader,Darkmoon Dirigible,COMMON,COMMON,40,5,0,35,35
+P068,True,Squirming Tentacle,Death's Head Cultist,COMMON,COMMON,40,5,0,35,35
+P069,True,Scarlet Crusader,Dimensional Core,COMMON,COMMON,40,5,0,35,35
+P070,True,Ironforge Rifleman,Disciple of C'Thun,FREE,RARE,100,0,100,100,100
+P071,True,Elven Archer,Pen Flinger,COMMON,COMMON,40,0,0,40,40
+P072,True,Frostwolf Grunt,Encumbered Pack Mule,FREE,RARE,100,0,100,100,100
+P075,True,War Golem,Evasive Drakonid,FREE,COMMON,40,0,40,40,40
+P076,True,Evolved Kobold,Guild Trader,COMMON,COMMON,40,5,0,35,35
+P077,True,Faceless Behemoth,Living Monument,COMMON,COMMON,40,5,0,35,35
+P078,True,Faceless Lurker,Soldier of the Bronze,COMMON,RARE,100,5,60,95,95
+P079,True,Worgen Greaser,Fading Memory,COMMON,COMMON,40,5,0,35,35
+P080,True,Grook Fu Master,Fantastic Firebird,COMMON,COMMON,40,5,0,35,35
+P082,True,Fen Creeper,Gold Road Grunt,COMMON,COMMON,40,5,0,35,35
+P083,True,Fen Creeper,Sludge Belcher,COMMON,RARE,100,5,60,95,95
+P084,True,Squirming Tentacle,Festival Security,COMMON,RARE,100,5,60,95,95
+P085,True,Silvermoon Guardian,Flutterwing Guardian,COMMON,COMMON,40,5,0,35,35
+P087,True,Frostwolf Grunt,Pompous Thespian,FREE,COMMON,40,0,40,40,40
+P088,True,Frostwolf Grunt,Toad of the Wilds,FREE,COMMON,40,0,40,40,40
+P089,True,Twisted Worgen,Gankster,COMMON,COMMON,40,5,0,35,35
+P090,True,Sen'jin Shieldmasta,Gear Grubber,COMMON,RARE,100,0,60,100,100
+P091,True,Lost Tallstrider,Gentle Megasaur,COMMON,EPIC,400,5,360,395,395
+P092,True,Giant Mastodon,Meadowstrider,COMMON,COMMON,40,5,0,35,35
+P095,True,Windfury Harpy,Gyrocopter,COMMON,COMMON,40,5,0,35,35
+P096,True,Stegodon,Hippogryph,COMMON,COMMON,40,5,0,35,35
+P097,True,Magma Rager,Ice Rager,FREE,COMMON,40,0,40,40,40
+P098,True,Sen'jin Shieldmasta,Illusory Greenwing,COMMON,RARE,100,0,60,100,100
+P100,False,Microtech Controller,Living Paradox,COMMON,COMMON,40,5,0,35,35
+P101,True,Lord of the Arena,Time Machine,FREE,COMMON,40,0,40,40,40
+P102,True,Puddlestomper,Lushwater Murcenary,COMMON,COMMON,40,5,0,35,35
+P103,True,Magma Rager,Rock Rager,FREE,COMMON,40,0,40,40,40
+P107,True,Squirming Tentacle,Perplexing Anomaly,COMMON,RARE,100,5,60,95,95
+P108,True,Squirming Tentacle,Phantom Militia,COMMON,RARE,100,5,60,95,95
+P109,True,Pit Fighter,Razormane Raider,COMMON,COMMON,40,5,0,35,35
+P111,True,Puddlestomper,Primalfin Lookout,COMMON,COMMON,40,5,0,35,35
+P114,True,Sen'jin Shieldmasta,Saronite Tol'vir,COMMON,COMMON,40,0,0,40,40
+P115,True,Scarlet Crusader,Whelp of the Bronze,COMMON,COMMON,40,5,0,35,35
+P116,True,Sen'jin Shieldmasta,Time-Lost Protodrake,COMMON,COMMON,40,0,0,40,40
+P117,True,Squirming Tentacle,Silvermoon Sentinel,COMMON,COMMON,40,5,0,35,35
+P118,True,Twisted Worgen,Sneaky Delinquent,COMMON,COMMON,40,5,0,35,35
+P119,True,Twisted Worgen,Sneaky Scout,COMMON,COMMON,40,5,0,35,35
+P121,True,Tauren Warrior,Undercover Cultist,COMMON,COMMON,40,5,0,35,35
+P123,True,Divine Strength,Sand Breath,COMMON,COMMON,40,5,0,35,35
+P124,True,Righteousness,Flight Maneuvers,RARE,EPIC,400,20,300,380,380
+P127,True,Radiance,Binding Heal,FREE,COMMON,40,0,40,40,40
+P128,True,Convert,Seance,RARE,COMMON,40,20,-60,20,20
+P130,True,Seance,Power Chord: Synchronize,COMMON,COMMON,40,5,0,35,35
+P132,True,Psyche Split,Schism,RARE,RARE,100,20,0,80,80
+P136,True,Pilfer,Hallucination,COMMON,COMMON,40,5,0,35,35
+P137,True,Pilfer,Spore Hallucination,COMMON,COMMON,40,5,0,35,35
+P139,True,Tidal Surge,Dehydrate,COMMON,COMMON,40,0,0,40,40
+P141,False,Torrent,Digging Straight Down,RARE,COMMON,40,20,-60,20,20
+P142,False,Malted Magma,Landslide,COMMON,RARE,100,5,60,95,95
+P145,True,Call of the Void,Abduction Ray,COMMON,COMMON,40,5,0,35,35
+P146,True,Twisting Nether,Annihilation,EPIC,RARE,100,0,-300,100,100
+P148,True,Execute,Blast Charge,COMMON,RARE,100,0,60,100,100
+P149,True,Devastate,Torch,COMMON,RARE,100,5,60,95,95
+P150,True,I Know a Guy,Training Session,COMMON,RARE,100,5,60,95,95
+P151,True,Fen Creeper,Endtime Survivor,COMMON,COMMON,40,5,0,35,35
+P152,True,Pit Fighter,Endtime Survivor,COMMON,COMMON,40,5,0,35,35

@@ -1,0 +1,113 @@
+name,card_id,source_commit,observed_build,mana,attack,health,set_id,rarity_id,collectible,text
+Big Game Hunter,EX1_005,5d68a0171acb1ca504edf53cbeb283840a8f040e,1.0.0.3140,3,4,2,3,4,1,<b>Battlecry:</b> Destroy a minion with an Attack of 7 or more.
+Spellbreaker,EX1_048,5d68a0171acb1ca504edf53cbeb283840a8f040e,1.0.0.3140,4,4,3,3,1,1,<b>Battlecry:</b> <b>Silence</b> a minion.
+Snowchugger,GVG_002,d97f562658740c21a9791a9d282a624408110af5,2.0.0.7234,2,2,3,13,1,1,<b>Freeze</b> any character damaged by this minion.
+Big Game Hunter,EX1_005,4f7206f440ab05115824b7263aa36cd94a96327f,5.0.0.12574,5,4,2,3,4,1,<b>Battlecry:</b> Destroy a minion with an Attack of 7 or more.
+Big Game Hunter,EX1_005,2155786e4175c66348b73037d3799c3fe96eeb6d,7.0.0.15590,5,4,2,3,4,1,<b>Battlecry:</b> Destroy a minion with 7 or more Attack.
+Spellbreaker,EX1_048,2155786e4175c66348b73037d3799c3fe96eeb6d,7.0.0.15590,4,4,3,3,1,1,<b>Battlecry:</b> <b>Silence</b> a_minion.
+Tyrantus,UNG_852,085f915af6c4374ac2a7088862390ebea44eb6c9,8.0.0.18336,10,12,12,27,5,1,Can't be targeted by spells or Hero Powers.
+Big Game Hunter,FB_Champs_EX1_005,d399871096675e4186c1c2d35b9c410464a4ffbf,10.0.0.22611,3,4,2,18,4,,<b>Battlecry:</b> Destroy a minion with 7 or more Attack.
+Evasive Wyrm,DRG_079,ea858f4b4257bc400bcb6f64906c95292b27aac2,16.0.0.37060,6,5,3,1347,1,1,"<b>Divine Shield</b>. <b>Rush</b>.
+Can't be targeted by spells or Hero Powers."
+Spellbreaker,EX1_048,fc67953f6f6eee064badde3f4a7bd07011508642,17.0.0.44222,4,4,3,4,1,1,<b>Battlecry:</b> <b>Silence</b> a_minion.
+Evasive Wyrm,DRG_079,9b95dea77dbb4d116e861df8b650d80b1b4385d1,18.0.0.54613,6,5,3,1347,1,1,"<b>Divine Shield</b>, <b>Rush</b>
+Can't be targeted by spells or Hero Powers."
+Big Game Hunter,CORE_EX1_005,9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62,20.0.0.77662,4,4,2,1637,4,1,<b>Battlecry:</b> Destroy a minion with 7 or more Attack.
+Big Game Hunter,EX1_005,9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62,20.0.0.77662,4,4,2,3,4,1,<b>Battlecry:</b> Destroy a minion with 7 or more Attack.
+Spellbreaker,EX1_048,9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62,20.0.0.77662,4,4,3,3,1,1,<b>Battlecry:</b> <b>Silence</b> a_minion.
+Big Game Hunter,VAN_EX1_005,9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62,20.0.0.77662,3,4,2,1646,4,1,<b>Battlecry:</b> Destroy a minion with 7 or more Attack.
+Spellbreaker,VAN_EX1_048,9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62,20.0.0.77662,4,4,3,1646,1,1,<b>Battlecry:</b> <b>Silence</b> a_minion.
+Royal Librarian,SW_066,e9551cfb954705be8db95dcca5ada19ed2847d7e,21.0.0.88998,4,3,4,1578,1,1,"[x]<b>Tradeable</b>
+<b>Battlecry:</b> <b>Silence</b>
+a minion."
+The Demon Seed,SW_091,e9551cfb954705be8db95dcca5ada19ed2847d7e,21.0.0.88998,1,,,1578,5,1,"[x]<b>Questline:</b> Take 6
+damage on your turns.
+<b>Reward:</b> <b>Lifesteal</b>. Deal $3
+damage to the enemy hero."
+Establish the Link,SW_091t,e9551cfb954705be8db95dcca5ada19ed2847d7e,21.0.0.88998,1,,,1578,5,,"[x]<b>Questline:</b> Take 7
+damage on your turns.
+<b>Reward:</b> <b>Lifesteal</b>. Deal $3
+damage to the enemy hero."
+Complete the Ritual,SW_091t3,e9551cfb954705be8db95dcca5ada19ed2847d7e,21.0.0.88998,1,,,1578,5,,"[x]<b>Questline:</b> Take 8
+damage on your turns.
+<b>Reward:</b> Blightborn
+Tamsin."
+Blightborn Tamsin,SW_091t4,e9551cfb954705be8db95dcca5ada19ed2847d7e,21.0.0.88998,5,7,7,1578,,,"[x]<b>Battlecry:</b> For the rest of
+the game, damage you take
+on your turn damages your
+__opponent instead."
+The Demon Seed,SW_091,7a14d44a75a818ff8ee974ff3702980c56e1621d,21.3.0.93849,1,,,1578,5,1,"[x]<b>Questline:</b> Take 8
+damage on your turns.
+<b>Reward:</b> <b>Lifesteal</b>. Deal $3
+damage to the enemy hero."
+Establish the Link,SW_091t,7a14d44a75a818ff8ee974ff3702980c56e1621d,21.3.0.93849,1,,,1578,5,,"[x]<b>Questline:</b> Take 8
+damage on your turns.
+<b>Reward:</b> <b>Lifesteal</b>. Deal $3
+damage to the enemy hero."
+Tyrantus,UNG_852,e8bb5c0cbcbf8ad19c4153508106540b56adc60a,21.4.0.95431,10,12,12,27,5,1,
+Tyrantus,UNG_852,0c209c9a2df9cda1e9a8e239667a34bab8a08bf5,21.8.0.126299,10,12,12,27,5,1,Can't be targeted by spells or Hero Powers.
+Royal Librarian,CORE_SW_066,8bfb29fa4064a213262beb5a8941203f6aa7434c,26.0.0.170824,4,4,4,1637,1,1,"[x]<b>Tradeable</b>
+<b>Battlecry:</b> <b>Silence</b>
+a minion."
+Royal Librarian,SW_066,8bfb29fa4064a213262beb5a8941203f6aa7434c,26.0.0.170824,4,4,4,1578,1,1,"[x]<b>Tradeable</b>
+<b>Battlecry:</b> <b>Silence</b>
+a minion."
+The Demon Seed,SW_091,8bfb29fa4064a213262beb5a8941203f6aa7434c,26.0.0.170824,1,,,1578,5,1,"[x]<b>Questline:</b> Take 10
+damage on your turns.
+<b>Reward:</b> <b>Lifesteal</b>. Deal $3
+damage to the enemy hero."
+Establish the Link,SW_091t,8bfb29fa4064a213262beb5a8941203f6aa7434c,26.0.0.170824,1,,,1578,5,,"[x]<b>Questline:</b> Take 10
+damage on your turns.
+<b>Reward:</b> <b>Lifesteal</b>. Deal $3
+damage to the enemy hero."
+Complete the Ritual,SW_091t3,8bfb29fa4064a213262beb5a8941203f6aa7434c,26.0.0.170824,1,,,1578,5,,"[x]<b>Questline:</b> Take 10
+damage on your turns.
+<b>Reward:</b> Blightborn
+Tamsin."
+Chill-o-matic,TTN_077,1a884ec23e99e4daa26637df99433c6e17bba63c,27.0.0.181554,2,2,3,1858,1,1,"<b>Magnetic</b>
+<b>Freeze</b> any character damaged by this minion."
+Chill-o-matic,TTN_077e,1a884ec23e99e4daa26637df99433c6e17bba63c,27.0.0.181554,0,,,1858,,,<b>Freezes</b> any character damaged by this minion.
+Tyrantus,UNG_852,b0fbaba63b00c585aa58210accad20152ddcbd20,27.6.0.187190,10,14,14,27,5,1,"<b>Taunt</b>
+Can't be targeted by
+spells or Hero Powers."
+Tyrantus,BOTA_UNG_852,d317cab9f15d7d14b44951cc5b9be01a56999455,28.2.0.190416,10,12,12,1127,5,,"Can't be targeted by
+spells or Hero Powers."
+Tyrantus,BOTA_UNG_852,e072e5d302a93dc6fb33542e7c528ae4d39560f0,29.0.0.195635,10,12,12,1127,5,,<b>Elusive</b>
+Evasive Wyrm,CORE_DRG_079,e072e5d302a93dc6fb33542e7c528ae4d39560f0,29.0.0.195635,6,5,3,1810,1,1,"<b>Rush</b>
+<b>Divine Shield</b>
+<b>Elusive</b>"
+Big Game Hunter,CORE_EX1_005,e072e5d302a93dc6fb33542e7c528ae4d39560f0,29.0.0.195635,4,4,2,1637,4,1,"[x]<b>Tradeable</b>
+<b>Battlecry:</b> Destroy a minion
+with 7 or more Attack."
+Evasive Wyrm,DRG_079,e072e5d302a93dc6fb33542e7c528ae4d39560f0,29.0.0.195635,6,5,3,1347,1,1,"<b>Rush</b>
+<b>Divine Shield</b>
+<b>Elusive</b>"
+Big Game Hunter,EX1_005,e072e5d302a93dc6fb33542e7c528ae4d39560f0,29.0.0.195635,4,4,2,3,4,1,"[x]<b>Tradeable</b>
+<b>Battlecry:</b> Destroy a minion
+with 7 or more Attack."
+Tyrantus,UNG_852,e072e5d302a93dc6fb33542e7c528ae4d39560f0,29.0.0.195635,10,14,14,27,5,1,"<b>Taunt</b>
+<b>Elusive</b>"
+Evasive Wyrm,CORE_DRG_079,e73eeb8d2c284af5fcddc2db5fce692c77434cd8,29.0.3.197064,6,5,3,1637,1,1,"<b>Rush</b>
+<b>Divine Shield</b>
+<b>Elusive</b>"
+The Demon Seed,SW_091,f26de4079261da86afd70b5a28b0a5abf20e7837,31.2.2.213852,1,,,1578,5,1,"[x]<b>Questline:</b> Take 12
+damage on your turns.
+<b>Reward:</b> <b>Lifesteal</b>. Deal $3
+damage to the enemy hero."
+Establish the Link,SW_091t,f26de4079261da86afd70b5a28b0a5abf20e7837,31.2.2.213852,1,,,1578,5,,"[x]<b>Questline:</b> Take 12
+damage on your turns.
+<b>Reward:</b> <b>Lifesteal</b>. Deal $3
+damage to the enemy hero."
+Complete the Ritual,SW_091t3,f26de4079261da86afd70b5a28b0a5abf20e7837,31.2.2.213852,1,,,1578,5,,"[x]<b>Questline:</b> Take 12
+damage on your turns.
+<b>Reward:</b> Blightborn
+Tamsin."
+Evasive Wyrm,CORE_DRG_079,fda7e0b9730aacb0fc19523e00fc62e82b2f695a,32.0.0.217964,6,5,4,1637,1,1,"<b>Rush</b>
+<b>Divine Shield</b>
+<b>Elusive</b>"
+Evasive Wyrm,DRG_079,fda7e0b9730aacb0fc19523e00fc62e82b2f695a,32.0.0.217964,6,5,4,1347,1,1,"<b>Rush</b>
+<b>Divine Shield</b>
+<b>Elusive</b>"
+Evasive Wyrm,BOM_10_EvasiveWyrm_007t,3949e70634365cc283f777ab176b1d8fa6b199c3,32.2.0.219846,6,5,3,1626,1,,"<b>Rush</b>
+<b>Divine Shield</b>
+<b>Elusive</b>"

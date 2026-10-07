@@ -1,0 +1,103 @@
+pair_id,baseline,candidate,category,baseline_rarity,candidate_rarity,status,baseline_treatment,baseline_recovery,candidate_craft,nominal_price_difference,net_dust,additional_dust,surplus_dust
+P001,Ironbark Protector (Legacy),Star Grazer (Great Dark Beyond),cross-card-same-patch,FREE,RARE,Included under ordinary-rules assumptions,No disenchanting proceeds,0,100,100,100,100,0
+P002,Wildwalker (The Grand Tournament),Virmen Sensei (Mean Streets of Gadgetzan),cross-card-same-patch,COMMON,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,100,60,95,95,0
+P005,Gift of the Wild (Legacy),Drum Circle (Festival of Legends),cross-card-same-patch,COMMON,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,100,60,95,95,0
+P007,Wild Growth (Core),Invigorate (Wonders),cross-card-cross-patch,COMMON,RARE,Included under ordinary-rules assumptions,No disenchanting proceeds,0,100,60,100,100,0
+P009,Wild Growth (Core),Jade Blossom (Mean Streets of Gadgetzan),cross-card-cross-patch,COMMON,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,0,40,40,0
+P012,Wild Growth (Core),New Heights (Perils in Paradise),cross-card-cross-patch,COMMON,EPIC,Included under ordinary-rules assumptions,No disenchanting proceeds,0,400,360,400,400,0
+P013,Wild Growth (Core),Pilfered Power (Mean Streets of Gadgetzan),cross-card-cross-patch,COMMON,EPIC,Included under ordinary-rules assumptions,No disenchanting proceeds,0,400,360,400,400,0
+P015,Ram Wrangler (The Grand Tournament),Warsong Wrangler (Forged in the Barrens),cross-card-same-patch,RARE,EPIC,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,20,400,300,380,380,0
+P016,Arcane Shot (Core),Overwhelm (Scholomance Academy),cross-card-same-patch,RARE,RARE,Included under ordinary-rules assumptions,No disenchanting proceeds,0,100,0,100,100,0
+P017,Evolution Chamber (Great Dark Beyond),Bestial Madness (Titans),cross-card-same-patch,COMMON,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,100,60,95,95,0
+P018,Rapid Fire (Rise of Shadows),On the Hunt (Whispers of the Old Gods),cross-card-cross-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P019,Meteorologist (The Boomsday Project),Blastmage Miner (Wild West),cross-card-same-patch,RARE,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,20,100,0,80,80,0
+P020,Snowchugger (Goblins vs Gnomes),Chill-o-matic (Titans),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P021,Magister's Apprentice (March of the Lich King),Sorcerer's Apprentice (Classic),cross-card-cross-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P024,Flame Lance (The Grand Tournament),Arcane Overflow (United in Stormwind),cross-card-cross-patch,COMMON,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,100,60,95,95,0
+P025,Flame Lance (The Grand Tournament),Rolling Fireball (Descent of Dragons),cross-card-cross-patch,COMMON,EPIC,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,400,360,395,395,0
+P026,Flame Lance (The Grand Tournament),Sindragosa's Triumph (Cataclysm),cross-card-cross-patch,COMMON,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,100,60,95,95,0
+P030,Tome of Intellect (Legacy),Spark of Life (Into the Emerald Dream),cross-card-same-patch,COMMON,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,100,60,95,95,0
+P032,Arcane Servant (Rise of Shadows),Amalgam of the Deep (Voyage to the Sunken City),cross-card-same-patch,COMMON,EPIC,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,400,360,395,395,0
+P034,Sleepy Dragon (Core),Amber Warden (Across the Timeways),cross-card-cross-patch,COMMON,EPIC,Included under ordinary-rules assumptions,No disenchanting proceeds,0,400,360,400,400,0
+P035,Scalerider (Descent of Dragons),Amber Whelp (March of the Lich King),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P036,Silverback Patriarch (Legacy),Ancient Stegodon (The Shrouded City),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P037,Arcane Dynamo (The Boomsday Project),Ghost Writer (Festival of Legends),cross-card-same-patch,RARE,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,20,40,-60,20,20,0
+P038,Arcane Servant (Rise of Shadows),Flame Revenant (Titans),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P039,Archmage (Legacy),Violet Warden (Rise of Shadows),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P041,Fen Creeper (Classic),Azsharan Sentinel (Voyage to the Sunken City),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P042,Booty Bay Bodyguard (Legacy),Azsharan Sentinel (Voyage to the Sunken City),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P043,Frostwolf Grunt (Legacy),Barkshield Sentinel (Into the Emerald Dream),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P045,Blazing Battlemage (Descent of Dragons),Miracle Salesman (Wild West),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P046,Bloodfen Raptor (Legacy),Huge Toad (The League of Explorers),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P047,Frostwolf Grunt (Legacy),Bonechewer Brawler (Ashes of Outland),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P048,Booty Bay Bodyguard (Legacy),Evil Heckler (The Grand Tournament),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P049,Boulderfist Ogre (Core),Package Dealer (Perils in Paradise),cross-card-same-patch,COMMON,RARE,Included under ordinary-rules assumptions,No disenchanting proceeds,0,100,60,100,100,0
+P050,Squirming Tentacle (Whispers of the Old Gods),Bronze Gatekeeper (The Boomsday Project),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P051,Stormpike Commando (Legacy),Burrowing Scorpid (Ashes of Outland),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P052,Silvermoon Guardian (Classic),Candleraiser (Festival of Legends),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P060,Sen'jin Shieldmasta (Core),Circus Amalgam (Madness at the Darkmoon Faire),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,0,40,40,0
+P061,Lost Tallstrider (Goblins vs Gnomes),Coilfang Constrictor (Voyage to the Sunken City),cross-card-same-patch,COMMON,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,100,60,95,95,0
+P062,War Golem (Legacy),Conflux Crasher (Across the Timeways),cross-card-same-patch,FREE,EPIC,Included under ordinary-rules assumptions,No disenchanting proceeds,0,400,400,400,400,0
+P063,Lost Tallstrider (Goblins vs Gnomes),Crater Gator (The Shrouded City),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P064,Fen Creeper (Classic),Crazed Worshipper (Whispers of the Old Gods),cross-card-same-patch,COMMON,EPIC,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,400,360,395,395,0
+P065,Sen'jin Shieldmasta (Core),Crazed Worshipper (Whispers of the Old Gods),cross-card-same-patch,COMMON,EPIC,Included under ordinary-rules assumptions,No disenchanting proceeds,0,400,360,400,400,0
+P066,Frostwolf Grunt (Legacy),Crystal Welder (Great Dark Beyond),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P067,Scarlet Crusader (Classic),Darkmoon Dirigible (Madness at the Darkmoon Faire),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P068,Squirming Tentacle (Whispers of the Old Gods),Death's Head Cultist (Forged in the Barrens),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P069,Scarlet Crusader (Classic),Dimensional Core (Great Dark Beyond),cross-card-cross-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P070,Ironforge Rifleman (Legacy),Disciple of C'Thun (Whispers of the Old Gods),cross-card-same-patch,FREE,RARE,Included under ordinary-rules assumptions,No disenchanting proceeds,0,100,100,100,100,0
+P071,Elven Archer (Core),Pen Flinger (Scholomance Academy),cross-card-cross-patch,COMMON,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,0,40,40,0
+P072,Frostwolf Grunt (Legacy),Encumbered Pack Mule (United in Stormwind),cross-card-same-patch,FREE,RARE,Included under ordinary-rules assumptions,No disenchanting proceeds,0,100,100,100,100,0
+P075,War Golem (Legacy),Evasive Drakonid (Descent of Dragons),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P076,Evolved Kobold (Whispers of the Old Gods),Guild Trader (United in Stormwind),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P077,Faceless Behemoth (Whispers of the Old Gods),Living Monument (Saviours of Uldum),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P078,Faceless Lurker (Saviours of Uldum),Soldier of the Bronze (Across the Timeways),cross-card-same-patch,COMMON,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,100,60,95,95,0
+P079,Worgen Greaser (Mean Streets of Gadgetzan),Fading Memory (Across the Timeways),cross-card-cross-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P080,Grook Fu Master (Mean Streets of Gadgetzan),Fantastic Firebird (Madness at the Darkmoon Faire),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P082,Fen Creeper (Classic),Gold Road Grunt (Forged in the Barrens),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P083,Fen Creeper (Classic),Sludge Belcher (Curse of Naxxramas),cross-card-same-patch,COMMON,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,100,60,95,95,0
+P084,Squirming Tentacle (Whispers of the Old Gods),Festival Security (Festival of Legends),cross-card-same-patch,COMMON,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,100,60,95,95,0
+P085,Silvermoon Guardian (Classic),Flutterwing Guardian (Into the Emerald Dream),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P087,Frostwolf Grunt (Legacy),Pompous Thespian (One Night in Karazhan),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P088,Frostwolf Grunt (Legacy),Toad of the Wilds (Forged in the Barrens),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P089,Twisted Worgen (Whispers of the Old Gods),Gankster (Fractured in Alterac Valley),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P090,Sen'jin Shieldmasta (Core),Gear Grubber (Fractured in Alterac Valley),cross-card-same-patch,COMMON,RARE,Included under ordinary-rules assumptions,No disenchanting proceeds,0,100,60,100,100,0
+P091,Lost Tallstrider (Goblins vs Gnomes),Gentle Megasaur (Journey to Un'Goro),cross-card-same-patch,COMMON,EPIC,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,400,360,395,395,0
+P092,Giant Mastodon (Journey to Un'Goro),Meadowstrider (Into the Emerald Dream),cross-card-cross-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P095,Windfury Harpy (Classic),Gyrocopter (Descent of Dragons),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P096,Stegodon (Journey to Un'Goro),Hippogryph (Descent of Dragons),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P097,Magma Rager (Legacy),Ice Rager (The Grand Tournament),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P098,Sen'jin Shieldmasta (Core),Illusory Greenwing (Into the Emerald Dream),cross-card-same-patch,COMMON,RARE,Included under ordinary-rules assumptions,No disenchanting proceeds,0,100,60,100,100,0
+P100,Microtech Controller (The Boomsday Project),Living Paradox (Across the Timeways),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P101,Lord of the Arena (Legacy),Time Machine (Across the Timeways),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P102,Puddlestomper (Goblins vs Gnomes),Lushwater Murcenary (Forged in the Barrens),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P103,Magma Rager (Legacy),Rock Rager (Madness at the Darkmoon Faire),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P107,Squirming Tentacle (Whispers of the Old Gods),Perplexing Anomaly (Great Dark Beyond),cross-card-same-patch,COMMON,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,100,60,95,95,0
+P108,Squirming Tentacle (Whispers of the Old Gods),Phantom Militia (The Witchwood),cross-card-same-patch,COMMON,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,100,60,95,95,0
+P109,Pit Fighter (The Grand Tournament),Razormane Raider (Forged in the Barrens),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P111,Puddlestomper (Goblins vs Gnomes),Primalfin Lookout (Journey to Un'Goro),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P114,Sen'jin Shieldmasta (Core),Saronite Tol'vir (Titans),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,0,40,40,0
+P115,Scarlet Crusader (Classic),Whelp of the Bronze (Across the Timeways),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P116,Sen'jin Shieldmasta (Core),Time-Lost Protodrake (Titans),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,0,40,40,0
+P117,Squirming Tentacle (Whispers of the Old Gods),Silvermoon Sentinel (March of the Lich King),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P118,Twisted Worgen (Whispers of the Old Gods),Sneaky Delinquent (Scholomance Academy),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P119,Twisted Worgen (Whispers of the Old Gods),Sneaky Scout (Fractured in Alterac Valley),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P121,Tauren Warrior (Classic),Undercover Cultist (The Shrouded City),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P123,Divine Strength (Whispers of the Old Gods),Sand Breath (Descent of Dragons),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P124,Righteousness (Legacy),Flight Maneuvers (Cataclysm),cross-card-cross-patch,RARE,EPIC,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,20,400,300,380,380,0
+P127,Radiance (Legacy),Binding Heal (Journey to Un'Goro),cross-card-same-patch,FREE,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,40,40,40,0
+P128,Convert (The Grand Tournament),Seance (Rastakhan's Rumble),cross-card-cross-patch,RARE,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,20,40,-60,20,20,0
+P130,Seance (Rastakhan's Rumble),Power Chord: Synchronize (Festival of Legends),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P132,Psyche Split (Ashes of Outland),Schism (Cataclysm),cross-card-same-patch,RARE,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,20,100,0,80,80,0
+P136,Pilfer (Classic),Hallucination (Journey to Un'Goro),cross-card-cross-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P137,Pilfer (Classic),Spore Hallucination (Journey to Un'Goro),cross-card-cross-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P139,Tidal Surge (Core),Dehydrate (Wild West),cross-card-cross-patch,COMMON,COMMON,Included under ordinary-rules assumptions,No disenchanting proceeds,0,40,0,40,40,0
+P141,Torrent (Ashes of Outland),Digging Straight Down (Wild West),cross-card-cross-patch,RARE,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,20,40,-60,20,20,0
+P142,Malted Magma (Perils in Paradise),Landslide (Madness at the Darkmoon Faire),cross-card-cross-patch,COMMON,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,100,60,95,95,0
+P145,Call of the Void (Legacy),Abduction Ray (Great Dark Beyond),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P146,Twisting Nether (Core),Annihilation (Escape from Violet Hold),cross-card-cross-patch,EPIC,RARE,Included under ordinary-rules assumptions,No disenchanting proceeds,0,100,-300,100,100,0
+P148,Execute (Core),Blast Charge (Wild West),cross-card-cross-patch,COMMON,RARE,Included under ordinary-rules assumptions,No disenchanting proceeds,0,100,60,100,100,0
+P149,Devastate (Rastakhan's Rumble),Torch (Cataclysm),cross-card-same-patch,COMMON,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,100,60,95,95,0
+P150,I Know a Guy (Mean Streets of Gadgetzan),Training Session (March of the Lich King),cross-card-cross-patch,COMMON,RARE,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,100,60,95,95,0
+P151,Fen Creeper (Classic),Endtime Survivor (Across the Timeways),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0
+P152,Pit Fighter (The Grand Tournament),Endtime Survivor (Across the Timeways),cross-card-same-patch,COMMON,COMMON,Included under ordinary-rules assumptions,Ordinary disenchanting assumed,5,40,0,35,35,0

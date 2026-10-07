@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "source": "paper/submission/supplement/annotation_queue.csv",
+  "queue_sha256": "f018d21bec284ef6c47c4b0a1c71a7f2b4d2edc44273055e55d9625eb930a2ae",
+  "created_at": "2026-10-04T15:16:28.207752+00:00",
+  "scope": "Single-human review of 145 eligible different-card pairs after seven incomplete-effect exclusions; not independent validation.",
+  "presentation_batch_size": 3,
+  "pending_presented_pair_ids": [],
+  "show_ai_draft_judgement": true,
+  "presentation_layout": "horizontal_six_card_columns",
+  "review_complete": true,
+  "historical_queue_sha256": "16e05578264e79c40df6797b85dfcca403cc1676ef72a3e7232b0568888f98a8",
+  "excluded_pair_ids": [
+    "P004",
+    "P011",
+    "P027",
+    "P028",
+    "P029",
+    "P134",
+    "P135"
+  ]
+}

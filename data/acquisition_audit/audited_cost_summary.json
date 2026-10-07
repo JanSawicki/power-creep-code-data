@@ -1,0 +1,37 @@
+{
+  "detector": {
+    "n": 102,
+    "quantities": {
+      "nominal_price_difference": {
+        "median": 0.0,
+        "mean": 54.31372549019608
+      },
+      "candidate_craft": {
+        "median": 40.0,
+        "mean": 94.70588235294117
+      },
+      "additional_dust": {
+        "median": 40.0,
+        "mean": 90.49019607843137
+      }
+    }
+  },
+  "human_accepted": {
+    "n": 89,
+    "quantities": {
+      "nominal_price_difference": {
+        "median": 0,
+        "mean": 48.98876404494382
+      },
+      "candidate_craft": {
+        "median": 40,
+        "mean": 86.51685393258427
+      },
+      "additional_dust": {
+        "median": 40,
+        "mean": 82.92134831460675
+      }
+    }
+  },
+  "scope": "Source-audited normal-copy ordinary rules; no historical holdings or refund reconstruction."
+}

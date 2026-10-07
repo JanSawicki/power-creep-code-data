@@ -1,0 +1,76 @@
+#!/bin/bash
+#SBATCH --nodes 1
+#SBATCH --cpus-per-task 8
+#SBATCH --gres=gpu:4
+#SBATCH --mem=160G
+#SBATCH --time 5-00:00:00
+#SBATCH --job-name vllm
+#SBATCH --output ./logs/vllm.log
+
+CONFIG="${POWER_CREEP_CONFIG:-${XDG_CONFIG_HOME:-$HOME/.config}/power-creep/local.env}"
+if [[ -f "$CONFIG" ]]; then source "$CONFIG"; fi
+
+# Serves the LLM judge for the power creep pipeline:
+#   18000  deepseek-ai/DeepSeek-R1-Distill-Llama-70B  (GPUs 0-3, tp=4)
+#
+# Endpoints are written to ./vllm.endpoints on startup.
+# Point the pipeline at them with:
+#   source ./vllm.endpoints
+
+set -euo pipefail
+export PYTHONUNBUFFERED=1
+
+export HF_HOME="${HF_HOME:-${XDG_CACHE_HOME:-$HOME/.cache}/huggingface}"
+export VLLM_USE_FLASHINFER_SAMPLER=0
+export VLLM_ATTENTION_BACKEND=FLASH_ATTN
+
+REPO="${SLURM_SUBMIT_DIR:-$(pwd)}"
+cd "$REPO" || exit 1
+NODE=$(hostname)
+
+PORT_LLM=18000
+
+module load uv/0.9.5
+
+if [ ! -d ".venv" ]; then
+    uv venv .venv
+fi
+source .venv/bin/activate
+uv pip install --quiet vllm
+
+cleanup() {
+    echo "Shutting down vLLM server..."
+    kill "$LLM_PID" 2>/dev/null
+    wait "$LLM_PID" 2>/dev/null
+    echo "Server stopped."
+}
+trap cleanup EXIT SIGTERM SIGINT
+
+# GPUs 0-3: DeepSeek-R1-Distill-Llama-70B (~132 GiB in bf16, tp=4, 40 GB A100s)
+CUDA_VISIBLE_DEVICES=0,1,2,3 vllm serve deepseek-ai/DeepSeek-R1-Distill-Llama-70B \
+    --port "$PORT_LLM" \
+    --host 0.0.0.0 \
+    --tensor-parallel-size 4 \
+    --gpu-memory-utilization 0.90 \
+    --max-model-len 8192 \
+    --served-model-name deepseek-ai/DeepSeek-R1-Distill-Llama-70B \
+    2>&1 | sed 's/^/[deepseek-70b] /' &
+LLM_PID=$!
+
+# Write endpoints for other scripts to source
+cat > "$REPO/vllm.endpoints" <<EOF
+export VLLM_NODE=${NODE}
+export VLLM_LLM_URL=http://${NODE}:${PORT_LLM}/v1
+EOF
+
+echo "======================================================"
+echo " LLM (DeepSeek-R1-70B): http://${NODE}:${PORT_LLM}/v1"
+echo " Endpoints written to:  ${REPO}/vllm.endpoints"
+echo "======================================================"
+
+echo "Waiting for DeepSeek-R1-Distill-Llama-70B..."
+until curl -sf "http://localhost:${PORT_LLM}/v1/models" > /dev/null 2>&1; do sleep 5; done
+echo "DeepSeek-R1-Distill-Llama-70B ready on :${PORT_LLM}"
+
+echo "All models ready. Job will stay alive until cancelled."
+wait
